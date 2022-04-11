@@ -1,0 +1,3208 @@
+week_id,ad_id,requester,region,recommendation_type,rec_provider
+2022-week_03,AD0798NGKY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078C8C6F,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD08DG88P8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD077FH786,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD077FH786,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD0869A88X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08WHKT89,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08WYDPSP,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07P88MGQ,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD08RXRF8P,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09N8FP8M,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0968DJCF,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07GVYG8L,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07NS8PVY,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08P8N868,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD00T88Y8N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07V9H8K9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MGDFT9,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD88799889,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD08M6YEQ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07LG8ZNR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078FSGC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD079WHC8Y,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD07HP7JMG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088R8KHR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088YK9QM,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08EXCFIT,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00QUSXQG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KXPSVF,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD088D6N8X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08PZ8PXM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07CT89QV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07P9K8XC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08J6MWXM,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0888Q8M8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD98906798,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CLFRY6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07YTL8QH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078P986R,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088W88N8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08F6YK6W,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07G98H6P,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD086688KJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09H7Y9MQ,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD07YGNH68,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08D6G6LM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097RDVDL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD097RDVDL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JZ8XQQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD077P8R88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08VAZHCS,Bizanga,IN,Yield,ManualQ
+2022-week_03,AD089MTJVL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088I8SP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07FCJWVC,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09CNQM9C,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08YRVPJY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088MS988,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08I8HPQG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00T7G870,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00T7G870,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07X678VS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07D9JKYX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NLSV8C,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD00JTEXY8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08L8DV7X,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07SC8H88,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07N8Y7RW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PK8NPD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08A8D8LP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09HKTCX8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07ZNYX8C,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08CNMQG0,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09M8PFZQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JLS8FQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09PJ79QK,Bizanga,IN,Yield,RuleBasedY
+2022-week_03,AD089DS88S,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08M8GD68,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08K8CMF8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07WJFJ8W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09JFMMZH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08H8WG88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088MS98X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NHW88K,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098QH7RD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088DZM8J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088DZM8J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098GCGD8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098LPZ7Z,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08R9VRN8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08CDWKD8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098V8NT7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07PFFMP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07PFFMP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07PFFMP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07PFFMP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07PFFMP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07PFFMP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07PFFMP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08GKYH8J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08K8TLSQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DMDWP8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097SSJWT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07DLC97J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD006LXAYU,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08GC88P8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD008H88DO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08868VD8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08NXK88N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CTZ8Z7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09MY8NSD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07MV88CC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098SWYF6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098SWYF6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098SWYF6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098SWYF6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08D8J88F,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09NRT86F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD076NQQHD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD006R8UGK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09C8WW8W,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098NCDQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CNDCNM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00DRE8HG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KM8NFS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DG6XL7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NM87JR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07V88J8F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07R7RG8L,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098C8VDJ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD098C8VDJ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07GFKPLY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HRY7G9,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07L8XL8R,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08XGDN8T,Modanisa,IN,Qality,ManualQ
+2022-week_03,AD09P8XCKR,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07TKY98S,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD88880878,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD006G88P6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08MEHGSR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07XS87WN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08TSSCZR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08F788F6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KSTLLZ,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD07XMGGG8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0767GLLS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PF898J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08FYLLLP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD88788078,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07DYRHND,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088MHC88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07RJLQL,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD09Q89688,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08R6QR86,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08987DL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09HHFR9X,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD0868Z98G,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD08TNMRC8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Q88TQ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07RHSM89,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0868RXG6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07NRT86X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008VW898,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MC8KYC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096F77YW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08W8M7GW,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09F6KMX6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08ZTXH87,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD07VNXQY8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD099SF8X8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08CFWX8F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CFWX8F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HWP98T,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HWP98T,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VNSP88,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD88880088,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD09JGL8CN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08LT9MPP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07TXVL8G,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07SDG9LD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07FR86VX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD086N68W8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097MLDR8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08P9V8M8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08P8GSGM,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08ZYDFZQ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD008Z8DPW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08RYXF6R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098V7QDM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07WL8T78,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08JQM886,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD098MH9LW,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD00MGJ96Y,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CFS8NP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078ZGWR8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD099RZ778,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09LHXTXM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0889VH78,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08898K6N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08WHCKVQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0886HRTJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07CYYNNN,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07NY8Z89,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09CTYGJS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08R8HXNH,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD06ZZJ7NV,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD06ZZJ7NV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XSG88S,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098X8C87,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08S6S8V8,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD098XNMNV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD087788D8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08MVRZ8Q,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08986888,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07VYJYH8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09H7MT88,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD00HSC8IR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07GXHC69,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD0888FG8D,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD06Y8XF8P,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07KZ8W68,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CTYGJS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CTYGJS,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD097R7DDD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078CWTPG,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07FLC8VR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08MV8MML,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SL88CK,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07D8SFQF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XQNPWD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0000AN8Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00998968,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD08KJFGG8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VRQNRV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08NWV6DF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096KS8Z8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD096FDJQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09KVXZY,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07H69GWN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097DGWF8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09F6PKC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD077H888,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09788QGR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08K7KQR8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00NF8L8S,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00IJ78QW,aPriori Technologies,IN,Qality,ManualQ
+2022-week_03,AD078T888Y,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089888Y8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD086WM8R8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD00INQMR8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07YGPFST,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08XMND8Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08W8PR8D,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0888PN8L,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0888PN8L,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD000GG8S8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08L87NGJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08WWG668,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0987QWK8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098DYF8P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07F8JZ6X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09H8M8WR,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08LEHU88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098XRRZ6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KQL8M,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07R8M887,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088P6HM8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09688QDS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09PHTNYJ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08QG8R88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07J888Y8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HWH8P6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098RK6FJ,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07P9QFGQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD008RL8FD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SW8L8M,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD089MTJVL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD076CMR8L,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09Q88F68,Bizanga,IN,Yield,RuleBasedY
+2022-week_03,AD09HSM8NK,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07DJGZZH,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08R8Z7CX,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09KRLS8L,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07P8GRZ,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD07L889N7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QZZQ8P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07WG6YS7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SKJ9F8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08QZKCWG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098DF88T,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09LVWF87,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08WPVN98,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07C8V8WR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HQ88K8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KSC8LT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08JYN8XC,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0998HHCP,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08RX8SKL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00IP6C8L,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD088DWH88,Crescendo Networks,IN,Qality,ManualY
+2022-week_03,AD088DWH88,Crescendo Networks,IN,Qality,ManualY
+2022-week_03,AD088DWH88,Search Million Culture,IN,Qality,ManualY
+2022-week_03,AD0088YWDU,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MM88TY,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD088JGKP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078CVP7T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD086ML0PA,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07Y89TQY,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD00INQN88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08THKKP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08QRCMPK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07G88YDJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07RPM8XD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MQQZ8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD077Y8CWD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0887XQCY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD076CJQPX,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07VLY7XQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CZMZD7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P6XYRK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09M88Y8N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00MFPCY8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00798FF8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QF9888,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08SQGLT8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00FC76TM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD080FMU70,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KSFYMY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098H9DWL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0767JDD8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD006QH9O8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD09MKMSQ9,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08DLPQJD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098GGT8L,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07NZX688,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD089NW898,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07VN8C88,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07FLFJVR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08G8MKEM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DL7YMN,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07XWJ9L8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07XWJ9L8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07XCM6T8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07XCM6T8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07RQ8R68,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08MG8NSJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0868NLM8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD089DLQ8U,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098DPFRZ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07CJTTW7,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD07ZZG6WY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07S9KZG8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098R8CJD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD06XPJL8F,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07T9LTH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088R8DFJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GS878Z,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07988L88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08NCF8J7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08JQJT86,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079Z89W7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07JQN7QG,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD088GQD89,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD078K8TC8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD88898886,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07XWH7TX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08XMR88R,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098DPL8Z,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08KT7QKM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07T8J9DJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08KPL8D9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07WDKLZP,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07WDKLZP,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07H9SV68,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088GZ8MW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09LJ8868,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08686KI,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08686KI,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD097R8CN8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078GL888,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD086KGSC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00G6MU8E,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09CTZ8WF,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD09CTZ8WF,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08N6FFZ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HKMJ8T,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088HRHYG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0886HY88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N8U68E,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08LQ8M78,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088AK8FJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07YJVKSZ,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD0878TP88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097C98K8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DGX9RQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00ENZT8M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08W8M8ZG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088WPVCW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00NIWHQV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09887CQ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07GRFFMR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0986HX9R,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD08J88JLH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08J7K9SF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08N880TH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07T8HZXT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P8GDXN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078T8FNG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078T8FNG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08RJNPNK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088DT9XK,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0868Y8RS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD000888MK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07X6MKT8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09HC68NL,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07QSLRRW,RelayFoods,IN,Qality,ManualQ
+2022-week_03,AD07QSLRRW,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD098MR8QM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HGEVFU,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088QKZYY,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09FHLJF8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0789NRK8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QRHTKF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098YJRRW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GCQAH8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088TVYT8,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD08XFCV8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0888QPQZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07C66SN8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088GTXS9,Bizanga,IN,Yield,RuleBasedY
+2022-week_03,AD08YWQ8G9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD076FSM7P,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07M78KMG,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08P7CZH,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD07RWXS8Z,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09J8F6P8,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD089MT88Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD089MT88Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD089MT88Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08VJLKCR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078JDX67,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096HM9KF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08Q8FNYL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07W88SWT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098XFRGQ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08TT8FJR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08TT8FJR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07ZX8Y88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CPSCZZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096LZ8WL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07HR986T,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088MDMD9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098YZXCM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08M0GN08,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088QJ88Q,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08L9RRNY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07MJ8YSK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD077DC886,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07J9MNNN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078RGFFV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09N8XMZ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09N8XMZ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088U6HAN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08T8Z8X8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096XQZHV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VWK798,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07NSGJV8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GZJSNN,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD07C87D8P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07X8888F,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00708806,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GPW867,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HHLSQ7,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09MM8TSJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078NPRT9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09M88LYS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098L8JX8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JZFDCN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078XG7HF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CE7D8Y,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD086DC9OO,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD0886VY87,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD0886VY87,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0886VY87,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0886VY87,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0886VY87,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0886VY87,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD0886VY87,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD0788XWTM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09678J8Y,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD07MT8SWZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VDDQGD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07SKGQ88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MNJLDG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07WGPKCQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08WK8G8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0788D8Q9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08G6MJQQ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07GTTDP6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SL8SNF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09J8CXMD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08H8XF8V,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07XTLSJD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09FJWKF8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08RCQRZ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JQL8CG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD087IUK7U,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07F6JG77,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07S6P88C,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09878QGQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08N7RROS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08L88YPG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098NFJXX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098NFJXX,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD089C9SQZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KWV8PX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07SMR9P8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08LJJ6H6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD087YYFR8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MCC8F8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088USKG8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097L7Q8M,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD089DF8DX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098YVC8J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DL967W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088WYMTW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07MW9888,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07R88HC8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888MTVF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888CGQ8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098PYTSV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008DMZ88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08NPJXNY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DND6J7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098CT6K7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00F8XC8P,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088L7S8P,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Z6WPNW,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00OPYN7T,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08L868MY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07WMS7TW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07R7RG8L,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD088GNTFJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07HT7W9F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD006NVDWG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD006NVDWG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0888YL8R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07D8KG7N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08C8H8T8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09HKSWYH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD006LXDYR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YL8JGW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HGRGTQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0988NNY8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00PNJ8M8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09PRDHRK,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09PRDHRK,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD088K8KZ9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07P988F8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0778D98S,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088FDWLK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0788KS8S,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD0888GFR8,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD08HM78WJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07G8HZSQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07MDGZJQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08FN98V8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07GFKDXD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0788P78Y,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD079CHS8L,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09G78RC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07S88N8X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CYKDT7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CDW7T8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD06Y8YQCC,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD088ZG9P8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09DKPT8T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088N8KPD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00KIPMEC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089YQSQ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07D8FV88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098F8RMY,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD06ZZX8H9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07M89KP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08V8RFK8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09PHT7SK,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PVYDSX,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0988GLHV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07FMVJ6P,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08SMJ8Y8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09N8QC9Z,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PGXFX8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07DP8Z8C,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00LHULLK,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD098W7TSL,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD09F9WJ8M,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LYZX6Y,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD0898Q98K,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888YC78,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09889NR8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098ZJV6Z,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PFFMP9,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07PFFMP9,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07PFFMP9,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07PFFMP9,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07PFFMP9,Bizanga,IN,Yield,ManualQ
+2022-week_03,AD07PFFMP9,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07PFFMP9,Bizanga,IN,Yield,ManualQ
+2022-week_03,AD07PFFMP9,Bizanga,IN,Yield,ManualQ
+2022-week_03,AD078DPCCZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08Y8KM88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KMD8NJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07M8JC8D,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD086978F8,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD098SZQ8D,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08C8RJXJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07C8LX8X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098MXSFQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097YL8C8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097YL8C8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08GPSYNP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07WFPLDS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y98HVQ,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD0868LLRV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07DNP8S6,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD096QHNSF,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088KXH8F,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD088P86C8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD88879888,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07PQ88DC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096VF8PJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098G8FLL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09FHCP8H,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08YFD6S8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888ZFCD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CD78DR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QPG8QH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JHVSFH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NVZH98,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09MKPTK8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098S89LM,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08N8E9KJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098SG8VS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078X888C,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD07D988D8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0998LLTN,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD0998XKMD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098SWYF6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098SWYF6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098SWYF6,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD098SWYF6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098SWYF6,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD0798JVL8,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD08DRKZDH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S9GSXV,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09MKMT68,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09KNS6ZV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08PCCCQQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098HF8T8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08T7HV8R,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD07WGGPP7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08EJ8AZ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LDM8NC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08D6WXDW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08L7WTS6,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08HNH8S6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09868Q6C,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09F9DFLV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08C7KVCZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZDFZMG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07CL87X6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00YMJ0OI,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08M7YY98,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0008H0A7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08FRGYXN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0889RGGX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0798C99M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07M98RT8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09DQ8ZK6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VDLQHK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07L88TQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08C8MV8C,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07H9T88W,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07SKKT8N,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD06Y8797J,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD089JDM8N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD089JDM8N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08L8DMMS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098N88J9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD089FY86X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08MPXRR8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08ZRLKL9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08988RR8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08RW9X8J,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD078WPJ66,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00886QPA,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09PNQ8QW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098989LM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08G8X8PH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08P9FPSC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088RNZM9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08S6WZVN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07XY9H8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07M6YCRP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08H68G96,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08ISUL8P,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08QDKL8X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888VNS8,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD09FGX9L9,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD078NQL88,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09MCS8XN,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PSWRZ9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD006ZR8VW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD077WPKN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09NQ7GRJ,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD098S8Z7G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098PJMN8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08C9KXY8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07XM8GPV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07XM8GPV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098C8FWG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD080DT89A,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08C8YLT8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08TF88V8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YHCV88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08RDG9ZL,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD078KGZRN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07CHC8R8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD009LJ8XA,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078M9WHY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07L8LR8Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07M67FX6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07CXFJT8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08688V88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078VC999,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD086YATQX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088WNRRL,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD096FX8G8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096FX8G8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08898JQ9,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00PQCY86,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0978DS8C,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0889S7DF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JN98S8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00VFMFXR,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD09HSM8KM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08P8MN87,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HHLJ8F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07WDKLZP,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD07WDKLZP,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD08D7TVR8,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD078PTJ7R,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07NCY8LN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07RJDZ8J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08XXQPVQ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09GFQQFR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07ZP76QV,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07Y8J8JH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08PFCP8F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097GMST8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00S86FM8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08QW68ZK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CV8LYC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088LJH8F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098GMZS8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089T7TW8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078J8YJ7,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08K688Y8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078XP8GS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0988D86X,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD078ZZ9FX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KT7ESJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00CGVF7Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008UTTPV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07V8D9ZP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD086VXORN,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD0888L9N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09GK89FD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZNL6M8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LNX8Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078PPCFC,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08H8L8NM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07P87P8M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VQLYCH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08M98S8X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078Q8KZD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08L88F8P,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JG9NRJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08697N88,G-mode,IN,Qality,ManualQ
+2022-week_03,AD08697N88,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD08697N88,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD08CYMP68,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07W98V9H,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00N8L8X6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07Y86RGF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07D7ZGCR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888D86C,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008KH68R,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08E9ZM86,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07W6QKHX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07Q8X8LR,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08Q89S86,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07ZRXF7M,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07ZRXF7M,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07H9CJ8G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0778V8MF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07QRFT8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07RSZ886,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CHH9YD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09NNZFYL,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD88789988,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD0888FGQX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07STJTVJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097SXCGR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N88TY6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078HRR8X,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07W88M8M,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD0788Y8CL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08TRHF78,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD079X8J8Y,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0788MLS7,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD088TDNX7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07M8WCW8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098PWK8R,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HMDH8Y,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HLTF88,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07HQKGFY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09DKHPVN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00CLPTT8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07WVV8VL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07NGP887,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08SCF88W,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09JG8P88,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD088XXWM8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07N8KKX8,RelayFoods,IN,Qality,ManualQ
+2022-week_03,AD08878K8H,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07YWN88P,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00P98X6E,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08880898,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08880898,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098V8K8X,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08L8WHC6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08D8J8VR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00P98X6E,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD88879888,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD88879888,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07SM7VZD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088M8R88,G-mode,IN,Qality,ManualY
+2022-week_03,AD07X96HFP,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08GSN8TT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N6WNQG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08M9PY7C,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07H8ZNFQ,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD07XXZW87,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09C6D8KQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08DVFZTT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08L8Q67O,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088T8JTX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00NYZTUV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00NYZTUV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JYT89S,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08L88Z8T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00IF8W8D,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088DVPDY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MCY8GM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07RH8HRT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08N8DHCX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0009PCPP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07PY8ZQ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088WN87X,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07S8QXDT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096VNRZN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07789RJ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08JZ7HSN,G-mode,IN,Yield,RuleBasedY
+2022-week_03,AD07S7PCJY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07V8GVL8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08F88JQ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08SJ8VCM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07J87J78,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07PHW88C,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07FRH8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07FRH8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088HDHNT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07HJ7ZNK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07S8NW7Y,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09PVLLDW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07R8998L,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07MZ8CVW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09JMZSH8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07LPDF7G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08YJ6S88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00I9A8N0,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HHCDN9,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD07TYH6YZ,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07KXCF88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08RDDLPY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888TKSC,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09JS88W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09JC6R8D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CTZ966,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088HUWEC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08A6PG88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08PF8HGM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07SF8X98,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08F68KFJ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09CZ7FD8,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD088WQM8H,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NRNQTH,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07MK8J8D,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD08VNK8CJ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07ZQDFG9,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07ZQDFG9,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07RQCHGQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GRDPWP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088R7Y8S,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD00SFI7SR,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07CHVGLW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09DSNM8R,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097THFXQ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07PK8TZ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00F0IXPC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09N8QG8R,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07ZZ8CFN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00WSPHR8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07N7NK88,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD088FV88V,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07R8N96N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08C7SF8Y,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0008VKIK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P887M7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098GFL7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08NVQMTR,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09MVWZKJ,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08JVP6QC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VGGP8C,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00HVLUR8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088DFKJ7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098PMHWH,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07S89NX8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098Z8NK6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD076KQVXZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD98908878,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08J8CFO8,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD09DVNCVG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09898GXT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07MM8SNQ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00MVVAFI,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08PV9KFZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07T89Z88,Bizanga,IN,Qality,ManualQ
+2022-week_03,AD097KPVWQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07J89XZK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MZM86X,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07LD68CL,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD08ZS88HQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N8789P,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09N8ZL8T,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09N8ZL8T,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P88JPM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088DJ8ZY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09877P89,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00VTNZAX,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07LG89NP,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD088KSRFX,Search Million Culture,IN,Qality,ManualY
+2022-week_03,AD088KSRFX,Search Million Culture,IN,Qality,ManualY
+2022-week_03,AD088KSRFX,Allthetopbananas.com,IN,Qality,ManualY
+2022-week_03,AD08MTEUPO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07VJ8WVS,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD07DTC77L,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08W8DX8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HVL8QN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0996KFL9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD099ZXDK9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08886ZJP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GJ8VQ8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07VC8L88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD88088808,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09MVXWV8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KLNWGJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098YM68Y,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0886MK6L,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07PJ8PCY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088876GH,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07W8Y8W8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD87868808,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD88088988,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097RPK7V,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08897JC6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08Q7P988,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JTVQDK,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD09PNJPSW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09K8CVTN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09PZ6HCW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09PZ6HCW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07Z9CV88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00VWJ9T8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096VVJCY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JQ8F8M,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08KY68PD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0798G88Z,Bizanga,IN,Yield,RuleBasedY
+2022-week_03,AD098SL8HD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098P8MTC,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08QFMNHZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08MS798U,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08WX888V,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07WHJ8X6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S6KYFX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0977NPRM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078RFG6G,"OpenDesks, Inc.",IN,Yield,ManualQ
+2022-week_03,AD078RFG6G,"OpenDesks, Inc.",IN,Yield,ManualQ
+2022-week_03,AD078RFG6G,"OpenDesks, Inc.",IN,Yield,ManualQ
+2022-week_03,AD078RFG6G,"OpenDesks, Inc.",IN,Yield,ManualQ
+2022-week_03,AD077NDXD8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08YRQGVG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09J8ZRPH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07C7MMJR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07DYPLW9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088CCS8L,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HVL8QN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0888DLJG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07WHG968,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098889SD,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08FS8Q6S,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0776R88T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098DN8RS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08Z8XZPL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08YYDQLN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07X898Z8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08P8VTFK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07Q888CW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00NWFVDJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0789LZTC,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD00MWUVAQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GLXV8X,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09KC8ZJ8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07CS6YSD,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08CLHTSY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08T7QGJH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MDCYMP,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09FZG788,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD078LSY8R,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LFFE8I,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD079TR688,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00APWSR8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JGYWNS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08S8N88Y,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09KNPHJ9,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09G9XQFW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08XX8R8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888TR8J,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0998FG6T,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08ZYCMF8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08X8LRF8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09G6H87C,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD09PHSQ86,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00PQCXVQ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD078GRPW7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08MRKWT0,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09M869Z8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09M869Z8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CRW96V,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KQJSKL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07J6T8SP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD076JY8XQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09FQ8Z88,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0788R8PJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KAA09A,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08ML8X8X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08R9XV8R,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD098QN6C,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088SV66J,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD078VD9C6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08M788MK,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08FHCG9T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XWCHF8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07TFRQHZ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0888C889,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD07TPGHJD,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD079GQP88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07L8CC98,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PQQ8M7,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07MKMFKP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098XCC86,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08EYK8PM,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD086868PN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096YVZP8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07HD8CG8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096VD6RQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096VD6RQ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD096NTPRR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088D7MG6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07C99LSH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD06XXGGVF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09GLK888,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JJHPKF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09C8MLKP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08AAE8JH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07DVNYQ8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD099RVNY,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08H76GH8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00MVV9NU,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08Z8K8RV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097N8878,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098V88LZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JQN8DG,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08JQN8DG,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD09LR8HFS,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09H6YV87,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08PVYDSX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07N87ZY6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LT9MPP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LJCDNH,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD098WSYTG,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07TZP888,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09FZQQ8K,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD089MVKH7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0898JZ8Z,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZNM8QS,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00CEQEGP,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD0088M66Q,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD0889F98X,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07V8FS88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09JKMLNW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08P8G7XT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Y8DSFH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HRXQKG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0866L8DS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P6VW9G,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD079TK7KC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00PGYA8U,Crescendo Networks,IN,Yield,RuleBasedY
+2022-week_03,AD07FPZ8W8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088S9A7N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PSJW88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07PSJW88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YR86J8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07GZMJZY,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08TNCDNL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD06WWC7NC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07KDYDNV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LZFFFR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09FZHCJ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07XW7X8X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XW7X8X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08L8Q8H9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088YW8MY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09JS98MV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07TD96LY,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07G7FYKD,Fry Multimedia,IN,Qality,ManualQ
+2022-week_03,AD07DS88L8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD008RL8XC,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07TZ6GRQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0988X8R8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088PZ8C8,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08VP88NX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HSK68X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07T8JTDJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07RPR6JD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00I8SZLN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00HMCMAD,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07KTZ6VJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088LH8DS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QQL8NK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09G8K868,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08KA9UV8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09DX8W89,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD00998900,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZNXF86,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07MMWJC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08MDJ8VC,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD079RJNJV,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD98808866,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098L8PCJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098L9WY8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098ZZFHQ,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08F8X8X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VP88NX,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09P6HTZT,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07GFKTYS,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07FGFVCR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06XTMYX8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07F8KTNF,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07KML6TK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07ZYVTR8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09KM8J8C,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0798PD6Q,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08WKHYFC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GKMRL8,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07JK68TT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078Z8T9N,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07C8VJFD,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07C8VJFD,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD078CN88R,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CNNPN8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00Q8YQWO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07D8C8W8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07P886X9,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08D6SRY7,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD099X8P8J,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07GS8Y9C,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08Z689V6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088GOSOD,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09L7VGNC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YZP8YV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09LVMVX8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07YHXHY6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08F7SK8E,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0988ZYDN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08L8TNJH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00ISW98I,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07NC88V7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08888OWA,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088DTMYW,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07PSDYPS,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD007GHQQW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088CWQHS,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08S88M8H,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08XGDN8T,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD08XGDN8T,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08XGDN8T,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD0778JFRP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08X8T8G7,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD07TF8JP8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CHPGTS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098HFGKD,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09C8Y886,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0898NYTP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GFP8Z8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07KN7PW8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08D8S89D,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09DG8DFZ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD087Q0KO8,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD09GK8TCP,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08WRG8XW,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD0987TKQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088H8S88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0988PWCP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08VDS8E,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD077X87TT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088RMP87,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00MIFKAA,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07GCZ8MM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00J8YQWC,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD08GXC8NT,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD096ZSKLY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD008QTK87,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008QTK87,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0998YVP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09F8PMX8,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07QM6LWC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0788RWS8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD0788RWS8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08KHD78G,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07HFDYHG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078Y8Z86,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079G8RRH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD086T9YP9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00R8Z89G,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07KR8P8H,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08QV8PZP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD006LXAMQ,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD08VTDRGN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07JLFYX7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09KKV89F,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD099WCHWQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PDJ9JK,Search Million Culture,IN,Qality,ManualY
+2022-week_03,AD078P8QQ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08W88QWL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06Y68ZM8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD077CNNDP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0798S8K8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078T9988,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD078HC688,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07P6LR88,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00EY9CMW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09LHX89H,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08K8KFZW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088JLXW9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LXJ9AC,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD0898DY6F,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD097DLV7V,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08CXGZR8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07QP9PTZ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08868C8F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09868VLG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07N8WY6T,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0886XXQW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097PSWSS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08C86SSN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08F8SYJ6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008P0G86,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097JQ8J8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08M8GG9J,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08QG88DD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CVS98M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09MKP888,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07TV68C7,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08N8YRW8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07G7KRQQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD007OUAP8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JPYH8J,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD0999NNPV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07Z999JQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09ZQFK8N,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD089Y6TCD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07QY8NSW,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07G7X8DZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088VF8L6,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08T6THSM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08T6THSM,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD07TD8W8V,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD086MSDFD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PDHTHN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD077L8N6M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0888LMCX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09F9YQQ7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JHW9LS,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07VMTTRP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07TVD86P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0978VGL6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08MX68VK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078FX8RP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08P8888V,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD000VTGUA,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00GPKGVZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD98888698,Search Million Culture,IN,Yield,ManualQ
+2022-week_03,AD98888698,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08Z7D8D8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08SKYZLC,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08HGCLUH,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD07TD8HD9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07TD8HD9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Z888VV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08L8WWFC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08L8WWFC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08L8WWFC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P88C88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HX88TF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P88C88,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00NM0WD8,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD088679CW,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD09HXWCQ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD076887Q6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GG6GQ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07RPMY8M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08DNM9KG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09G9HDN8,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD07Y89TQY,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD00Q8OML8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08R8D8T8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD06XW8M8R,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PPV887,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08H8HXYQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08DJJVF8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08IVR8Y8,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD08F8VVKH,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09GJ9J7Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LPMCH7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07XYV68J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078D7P8W,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088TMR8F,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078HGZQR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088W8R8J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088TG8SP,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09H8RF8Y,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KRYFDC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097PHTJ6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09JVSS8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08FLGQCJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078N889X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08P8SFVF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07SQ9GKY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KP8RPC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07L8CXPF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD088PYXGP,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0887NFFC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD089ZT87T,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD088SV9CQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD079QGCLZ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08LZZNPJ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08GO8VRZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N8IOFC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088ZL8IO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088SQK08,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07CLM876,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD099T8DKZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07PTPL8V,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N8WRWN,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08N8WRWN,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD09H6QSR8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00HEDJHO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KRF8PK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088D8RZP,RelayFoods,IN,Qality,ManualQ
+2022-week_03,AD08R7LZ8J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09PZXLG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07TKY67J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08TM8V8W,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08A7KRY0,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08LRDM88,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD08LRDM88,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD0888JC88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08DLJSGJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08DLJSGJ,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08Y8F8NL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07HXZLZR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088KHYHK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09D8FW8Z,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD09J98GDH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07FKQTJ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0787P88J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088LZGK8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JCXDZJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08VMQ8D6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098MH8F8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888KFLM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VPVVDT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079SK8KW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XMVZDH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07LC8KR9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00GPKGVZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JYTD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD06XQ8WJV,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07KN8F8J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DHV88W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09G89VLG,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD0868S8GK,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08WYX6H,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08C8PWDH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00U8MG88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008FMEO8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD008SI6EU,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0987789X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CL8TYD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0988Z8V8,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD07DKZYZ6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888JTK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00IWMQDF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888L88C,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08DKZH8G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07JPX9CR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07RMXT8M,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08ZJHTT9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y88LPF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y88LPF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y88LPF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD079QHGSV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08Y8TQ8K,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098Y9TXP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08SDF9GZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08W8MK8D,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08ESP8WM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09J88DTX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088G8QSM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09MZ8N8Q,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08W8YJ88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088SQJED,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07F8ZXJN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KD8XVM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098Y8FVC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0088808G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07VCJ88,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08S89XQ9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0788PHTJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09PHPL8G,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08Q88S8J,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S8C8NZ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09PG88K8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09NNHK9X,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08XMMWP8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07X88MJT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JH8WCR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088JK8HY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08D98LK8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07CWQ9X7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078HWGLV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P6W8Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09878HPM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CDCKSX,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08DTXGD7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07Z68D7S,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DG8NZR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07FFL7VF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078L88VW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096TSSMX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00NM87RS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PX8Z89,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0866L78D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096QHNSF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09MLQXJW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09JZ8HHV,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07DGWFTS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078XJ8F8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0888VQ8Z,Crescendo Networks,IN,Yield,RuleBasedY
+2022-week_03,AD07VZ68S8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098LL9VR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HK9VZS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07T7Y9J8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07T7Y9J8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD000PR8ZO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD000PR8ZO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07NSRNF7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098ZPQNQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XXML78,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD000VWHSS,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD0978KSKF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KR8PXY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HDY8TT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00T8G0AK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098W8P87,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08N8YD6N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08GK6FM8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07ZT68JY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XQ8MY8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07J88TMS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD008KYWOD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08WJ8KS6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KK8LZK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08L8WD9D,Allthetopbananas.com,IN,Qality,UserPopQ
+2022-week_03,AD09MSCKG7,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD07Z98RQ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07P8H68X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09Q8DMWY,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00J8DYCC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08R8JJC8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08X77KDY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08X8LNHL,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD09C89FDT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SKLD8N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07NP8L7J,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD09MLVNY7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08M0Z8US,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07PZWWJK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08987QY6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08MD8NGP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07888JLW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07KJMHHG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HW8VH7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098PYTSV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0788C9RM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00WFU8V8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08W8FJQR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08H8FHXQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0788P78Y,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD09FT7FWT,VarVee,IN,Qality,UserPopQ
+2022-week_03,AD08G8H8TT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD98888988,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZXYCPW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07N8CWL9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MLGSTT,aPriori Technologies,IN,Yield,RuleBasedY
+2022-week_03,AD07GFJP8N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088F8PJD,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09LHYGYH,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07NJHY6S,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD00NM0WD8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD09K7V9NM,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD07XW88D9,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08K88NQ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08FKG688,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08C8QI6T,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088P7NM8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08ZNLJTR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07XDD7GY,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD097DZZK8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KHPDG8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07M8ZN8K,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00RAEXL0,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07ZNRL8W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00LEF6UQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07X88F9M,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LZHMWX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07TCTSKW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JW0AYP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD087G8KMF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00JZLSJY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00UG9H8Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09ZSFPSY,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08ZKM8HQ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07NGVH7X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00A0VCJP,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD00A0VCJP,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD097HPH8X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07NL7H9M,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD097LS7RK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CL8LW6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08FFN9DF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078PMSF8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PTQPV8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08F88XL8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088Z79R8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07G98N8Y,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07STDHP8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD098M76SW,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD099S8DGC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088P6NRA,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09DT9S6L,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD07N88MTT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MGQS8M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08VW98C6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098F6GSN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07878MDD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD98908868,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD088M6ZDQ,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD08Y987G7,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08WRJMHF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08E8ZEE8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097HQY8D,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD07RH899G,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD079988Q8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098YQ8JL,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08L9GHD9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PCPQ87,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD077VN8Y8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00OOHSGE,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KS6V88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JHGDP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09G98KP6,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD079ZXJ88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07GVR9TG,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD08PKSYVR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088TQTG8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09FQHKG8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888NGRL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07TYM89F,Fry Multimedia,IN,Yield,RuleBasedY
+2022-week_03,AD08M7R8YF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QJY8C,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078WGCNG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079NW868,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088D8J86,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088FZFQ9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD006QQRLA,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD098Y9Y86,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07Y8F8RF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0989M9X8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07JVTFGV,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD078PQRS8,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD00N0VILS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078SM8DY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08YK8NFK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0978MPPR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0788KNPJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098YW8N8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0786ML89,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HV8VGC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07F88D8Z,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD88088887,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GLXLHM,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07GWRQ7L,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08KRXN8P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD008C8NCH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078J9HX8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07ZLWWLZ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07XXZR7S,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QS88XK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD079HR78G,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078NSDLK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088DMYZR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KLGWC7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08987CVK,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08TTRXJ8,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD09P8N88R,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09P8G7MK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07MDKM7D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00TLF8HN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07FMZH88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09K7TST8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08S87KTD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD088GQ8ZT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08Y8G7N8,Crescendo Networks,IN,Qality,ManualQ
+2022-week_03,AD08IR6ZCE,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09PL8668,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD078VRN86,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0968L88P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CI8NW8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HSVNGM,Fry Multimedia,IN,Qality,ManualQ
+2022-week_03,AD00ML8EQ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088HQ68W,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00YDZINQ,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD07MXXW8R,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07MTNYZR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XXGGYG,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0769Y88D,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08878CDK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09FKD67C,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096VD6RQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0977NTKT,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD078FFVN7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00RTVYEE,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD076YGYDP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD089L86XJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09Q68HFR,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08F7RGZH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07F8HR8Q,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08Y89D8Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0968JGH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CE7D8Y,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09FNXW8,Crescendo Networks,IN,Yield,RuleBasedY
+2022-week_03,AD089QTX8M,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0888W8TK,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08L8PZ6N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088N9MGY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07NWKJNN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0788HSP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LR89JD,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09KRXLN9,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD008KWPCC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0076L80I,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07DHNL88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08K88R8V,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08988886,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09N8KTF9,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09N6NWFK,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07W8SND6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06X9S8ZS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GFP6XH,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD07VXVX6F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD88880988,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08V8DJK8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XD8G8H,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD08XJWZ88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00S8SA08,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YP8T8H,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098LDLN8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00LVMTA8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07HRR8X9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P8MJLL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07GWTWFS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD077PT8SM,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08XZJVRF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088DYHQJ,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD0788Y6TR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00Q8OMFA,RelayFoods,IN,Qality,ManualQ
+2022-week_03,AD08SKJSF9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KTY88X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07FY6GYP,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07XPHMVP,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078788F8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08LDC7CV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088NWD88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD089P78DF,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD089P78DF,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07RNQVNJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888PNF9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08T8LZ89,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD078WC888,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DM88QP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08W8888T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P8G88V,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08M6CPFJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07888888,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06XRYRN9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08PLRWNS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088LK88P,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08KHL8VJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07V8YSQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LSGD8V,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08FMT9VZ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08X8S8TD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08IDLM88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098PRVTW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07FDL8NG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08V98F88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08QT89VF,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD000OR898,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07DJD886,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07HL8FMP,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07J8HS88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KNC8NH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088C88Q,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08GD8JYL,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD087FXH6J,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09H8QGM8,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD08YWVGWN,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08YDFX7Y,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08YDFX7Y,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08MF88XW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07X9CM86,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088TKC6Z,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07RYXQRG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0888N86W,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09N7988T,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08880688,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888RQS8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07CWRHWC,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07VSH7NP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07SMR6MW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HSQFW8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0989J8PF,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08FRZ8AD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08MKGDWX,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0778FCQP,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07WVQ7LZ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08F788RY,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00MFCT8G,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD09P8RYTT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KYRRQF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DLYGF8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00E77MNH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08M78LIL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07C8VJFD,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07DP8Z8D,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00I7QXSE,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07TC6KRW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09NC88N9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07R9ZG8Z,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07W6ZCTW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07SVXTWQ,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD09FQ78ZK,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD09JFVWQ8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078VTDMF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MNGPJG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07WJTMPP,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD09N7SVFZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00988C9Y,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08SJZXF8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08JVMQD8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00RTTJJQ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07VKM8HR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07VKM8HR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078J8WY8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08TV8P8N,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD06Y68FM8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08KJK8DJ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0898PNV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097Y98CN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098Z8PPT,G-mode,IN,Yield,RuleBasedY
+2022-week_03,AD08RKDPKD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08XJCMGL,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD088888G8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Z8FK98,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08L8F8C7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09CD6Q8C,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07D8T8YT,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD09GVRLD8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KKAFJZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098SQJ78,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07KX8PR7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07ZWD8VQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098LDYW8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06XH887F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08N88XAH,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08888DQR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079QKC6D,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD98888880,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07YSYQTR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SLZDRY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GD8FY8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0978XWZT,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD07M78LVY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0988Q8ZX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09G9HD6P,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD088DZ6M8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09FFS9SJ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07H6JFX7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07C8YVZ7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08J888VY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09G99798,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD097FZLLQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SZ78F9,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD00HG0T6G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07LGQRX8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N88ZM9,Bizanga,IN,Yield,ManualQ
+2022-week_03,AD09HR8K8F,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD00NLZ8QQ,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD00GCEXY8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096MPZD8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N8VJZ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GFMR8A,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09N8ZL8T,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07VFZ788,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07GFRCN6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088M8R88,MoJoe Brewing Company,IN,Yield,ManualY
+2022-week_03,AD088M8R88,Puentes Company,IN,Yield,ManualY
+2022-week_03,AD07WQJ87M,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LD88X8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MZ8T8H,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07Y989DM,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08M8XXFJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08JZNURL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098TYNDW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08Q8P6KP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD98886868,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD88787888,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08S86FKR,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD0888WWXJ,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08QMV8PP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07M886GH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09F6FGRP,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD00L88WLF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09968LT7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00KNRC8R,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09698T8X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07QHHNT7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07LH8SR6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MM8D6Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098JNZGC,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08X8WQC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0889H8PS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088M7QPK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089WRZ89,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QF7R69,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08H8PYJ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08PX9YFZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09K8H79C,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07V9LM8S,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HML8XJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD88878868,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098TVDFR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KMRW88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08899CRP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078KRFWQ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08Y8JM8F,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07FZN8K8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KJ8NRS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD06XDLJL8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08NV98LM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07L98XNR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09JLWJCK,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078DRT8Q,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07JFN8V8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD076ML88Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S8Q89Z,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08V8XGLY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08NW9L8N,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD07K8R89H,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07KYQYHZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD009PV8PS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00CU8RO8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078FG8MF,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08VGCRQ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07NDR8J8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07QWTRLM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GD88Q8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08GCRGSP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07888JKH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098Q6YX8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07M77J8T,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08N8HQQY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GYHRN6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CNGJGF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD076NZS8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07YCZ97R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088QTNF7,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00LEF6XE,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07MMY888,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088GKDRK,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD088NG8D8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008H7FOE,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07D788YF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09LCT8MX,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD096YQZKZ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09NQ888L,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08JCKSZD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD008VPDIN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00TIMOXF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088Y8LRT,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07QHTF8Z,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097YL8C8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09H86S8F,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD077X8K8R,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08H9N8Y8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD06XS88XY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MDJQFM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Z88W8V,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088M8FLP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098PHZHL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07TXDCXK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N8GALK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HR68RL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08XVWZGP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07WHP8P8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098J8G8T,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD07KRCW6L,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Q87FKW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00U8889J,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00M8F8U0,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00E966WI,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08MR88HO,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07YXNDK6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08PDP89V,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07M6CYZS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09N8ZNHT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07M77P8Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD06XQMMKN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07X988QQ,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD07JC898L,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08W8STXW,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD08DYAL88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0768Q7FP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088ZL98V,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0787K886,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07DP87JK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD080FMOON,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08888MSH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00F888NW,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08L8QP6L,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07PPD889,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD089KLXWQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KWHXX8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08867ZPV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N8G688,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD078JJYQT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07M8ZHXZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08R6NFZ6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09D7WX88,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD09D7WX88,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD00YUNKKP,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD088K6CK9,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08GG8WCW,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD07RM8GKY,Allthetopbananas.com,IN,Qality,UserPopQ
+2022-week_03,AD086ZV9ZY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08J8Z8ZJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD080LE8R9,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07DPTYZX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07R8K699,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08RS886X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD06W8XLZR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N6RVWX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JNH78T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PPHDS7,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD078YQ68W,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08X8ZKKK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09FT88T8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08M8F688,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N6RK9T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD076V888G,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD008W8NT8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07X7JDZF,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098ZW8N8,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08TRQ8MY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088F8HVF,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08KXPMXM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07H888R8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098MNY88,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD098JCYXM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08Z8G8G9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P87S88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N90RZ8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088DG8RY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GV8WFD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888W8F6,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08ER8HUW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JY8F88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089FMNLN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07J8NQJ8,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08KP8XCF,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD096VT8Y9,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07VCKY8L,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08R8WQ7W,G-mode,IN,Yield,RuleBasedY
+2022-week_03,AD07XM87R8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07FRWS7Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD076WVK88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DF7GS8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088E6SQN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD077RDZXY,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08NGC8N8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07798688,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08N8C8XF,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098V7FF9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08P8XGFT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08880888,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD09G89VLG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07GZ7PS9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00P68VOG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07K8QHJD,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07H8QJJJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N8IHSX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09NSS78R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08G89896,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD06X8GGRN,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09P6FL8W,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD08DNXFSK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00OHNGJ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08N6C87L,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD089GM8Q7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08TMHF8D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09HMLP6C,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD07DQX8FG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CTZK8V,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088ZXUDD,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07J8RW88,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00S8SAVQ,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD08L88WJJ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08GR88YJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088HWW9X,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD09C6G789,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD086XVRKZ,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07GVZFN9,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07GVZFN9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00NFR88P,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079QSYSX,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD09PJT68L,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JZSG88,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09NTVH8L,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0898XWJW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07WWPCQJ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088HHXRT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09KPT8MF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08NMP8W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088LYLAO,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08GSTDKL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088Q89QF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07WHR8RK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07WHR8RK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08CPNLKD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VP87L9,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD087YGDLW,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD078JY8WG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08CSJVWW,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0978JTHL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08J8XJ8G,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD0888J6N6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07T8LMGL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07FYXCRF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0887T6Q8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09M7ZKX8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07ZC8NST,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08W8MNKQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD086FQ87H,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00LA8XC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JQKR88,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07NDVJW8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD088G8Z88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07G86W8Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD077L88YK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078HPSML,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08886JDY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097ZS6PT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088JP8WS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088MFYRM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096TSGW9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CZ88QV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09PJHCXS,Bizanga,IN,Yield,RuleBasedY
+2022-week_03,AD07JHPW78,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08888886,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09DL8698,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08E7JDHS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09PL8LGH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD086H8H88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07GP8TLY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08QG6ZY8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09KRSJSV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD099ZQKKH,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07MZ99X6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07MZ99X6,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08FY8TS7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HCGFS8,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD09HCGFS8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09LLKPZS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088SWV99,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00NM8YNA,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KHQRH8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KHQRH8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09JZTZCP,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00LGE8Z6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KRMVXK,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07L68TK8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD09N8XMZ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09N8XMZ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098CY8H8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0769M6Q8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08D6DQQN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08R78QKT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KTCXQT,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09DLD9C8,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07GKKFG8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08X8M9TX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078LP8R8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07W8SND6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08SJ88DL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00HRUZEK,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD09PK9YQ7,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD089CPF8N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MXJW8G,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00QPS8OU,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09Q8FWQW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD079VT889,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08MFKDYS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078CNGG8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08TM8M98,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07S8GNGR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0889988T,RelayFoods,IN,Qality,ManualQ
+2022-week_03,AD0786NT8Q,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD00F8GPN8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07DJGCKL,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD09LRK8X7,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07PSNNKV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HN9Q8S,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0996D8GW,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07XCM6T8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07XCM6T8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09HLCGFP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09LD68ZR,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD0998MKRS,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD08HH8W8O,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PH6LCK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MRJ9CL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08S88PV8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD079WRDF7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07X6FTXL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07R8GVJY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PR6H9T,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JKTYM8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08TV8P8N,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08F8LNSZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08NDCPLK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08IA888Z,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GJ87MK,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD097HR8QP,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08LGT8MJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09FKDH6F,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07CWW6QK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07Z8CRZ6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD089MQ768,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07NGK7M8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078F88CG,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088NW8RC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KNJ8QS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078YVJ8Z,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD09KNXRPP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07LH8888,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08MCCQSD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08LYMVMJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08F8K88T,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD097RJ867,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08V88KJ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098888VP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08TCDVWQ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07WV9J8Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08PX88CW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08ZSKMDN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088N8P86,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08KHGHYP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08R8VTMZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0786JCVL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0798SSGR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088JWSGZ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07SRZX8C,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0978JM7X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088WWDYZ,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD08D8V6GJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08IRVDJF,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08HJDLS6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Z8YJ9C,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KG889K,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089ZP8FS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00SJ8NXN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0968X8R8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08KHQ68D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088KXWC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07S9CYX6,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD088SF77R,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098WTRS8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07R7QQP8,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08MTR9YU,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD008ZXK6F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098KQGQ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XY9ZPM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08GSWP8J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08L898VT,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08KZTVPC,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088WVQ8D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PQ8ZW8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CRST8X,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07QWW8XR,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08HPPJLF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07LH898C,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07ZKD8T8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08AW9N88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00A0VCJP,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07CRM6ZN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08ZYX8S8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07W8J8Y8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD086UQYGT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08YNM7QG,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD00IJ78QW,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD09PRSD8D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07QGCCTW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PCCQ86,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00GPJMY8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DXL86H,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07TFFQWP,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09CVW8C8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD06XCRJ68,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08JJN89H,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09CL8SK8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07NZLFRX,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08CHGF8H,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089XSHCG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0768898,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09HQKM8Y,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0978Q8RS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08CR7JWV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08P8RMV8,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD09HZVTH7,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07JN8XW8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098PRX8Z,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08Y7N8CC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06Y8898H,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD07PNJ8MQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DLQ8VR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD006J88K8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08GF9NSY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08E8KV88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JDMM7N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD087NUYT8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08DHNPN8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PQ6VWP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08PQ6VWP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S8FY8J,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD08SKG8PP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0988XMQJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JTV8QW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08QSJM8L,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0978DWFD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088VJHYR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09888SVJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07HL68JR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LRDT7P,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08COQMD8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097N8JW8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08RFFZ6Q,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00O8R8AR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08XLX8S8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00EY7SW6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00EY7SW6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KT89Y8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08MQJJCD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088868XR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07VXV9V8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09888L7W,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078YXFCK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00NNQMYN,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD099TNWMV,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD088DQ7W9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HLP6HG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LYCW9L,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08D7QYL6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08F8QQFJ,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD0988NV8P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD006QHC76,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD089DSWYX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P8SYN8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07JDK8DM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0988TJ6M,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08K8P88G,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088888GK,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08KWC9JD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KSD7NX,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00EDJJ7F,Fry Multimedia,IN,Qality,ManualQ
+2022-week_03,AD078YXL6R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097DSTGG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YG7QLT,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07YSY88M,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088V88T6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD009VCGPS,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD088PQR88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07VXJSM9,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07SZQ7LT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08NCVJMK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09JSXVD6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00868WZY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09FLTXX8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08C9VWK7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09FL8CK8,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD07RTT8H6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08VR9NRZ,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD06XS6R8,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08CG888X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MFYRW8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09FY8Y7W,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098Y8VS6,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD08DUNSN8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MNL8K8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08DNZ8C8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07VLY7XP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N6JFDI,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07VYZPD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JD88TF,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD078JXSRQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079TTTWR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088888J6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0987X8R,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PDFN8S,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0888D8KN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD086978W9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08KMC8J8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07SW8Y7C,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD088X8S88,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00VK8MCM,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07MD8YQS,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD08HK8F6F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XDHYD8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07PP8QK8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096HSSV8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09GNSDZV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08GWQ8SN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HNTY88,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0868I6AR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088F7FV8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09NM89RQ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08VRLYSD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08SWNG6Z,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07SG688S,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08AAE8JH,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD099NWYVP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08GLTSFP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08CRT8H8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08SVPW8J,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD0788VXCH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08YL68VH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096W7LK9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08VWRGDQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08P88KTR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07G6LTJN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07H98SMC,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08R6QR86,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888MT96,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096ZMRD,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07JYCCD7,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088WLDWW,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088D9D9L,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888Z8ZF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07F9Z8HT,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD09G78MLV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097SYK87,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD98868886,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097RD8JX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08JQ6V88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JMD8MW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD009X7RO8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00M87UN8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GCFN8G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XF8X8N,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07TPFVT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07L89G9Q,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07NQ8NMW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07ZVNYH9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KQ8L88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07YZG8Z8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07888M87,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD08SMGMMV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08VS7RJW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P8LDZJ,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07Y8XP7G,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0887X87N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Q8F87J,Modanisa,IN,Qality,ManualQ
+2022-week_03,AD08F8MQ7N,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08CQCVMC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NYG686,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07GR8S8R,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08H8FX89,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08R7RPVJ,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD07J8HMZX,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07DP87MF,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07DP87MF,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD098MX8KN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08F8FDZV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0066SDTW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07P7JNQ8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD06700908,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD079FLFKK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07SHST8P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00Q8M88U,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088YYY6P,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07M9FJLM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09CZ9CMY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08VGKXCJ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07KFHSF8,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD088ZQF88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09N8ZNHT,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09N8ZNHT,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00GX9TS6,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0889LJXC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07888YT8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08878DP9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088MPJG8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09MQX8V9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09J7ZQV8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PFHLKN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09788D88,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD076GLLF8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MQFXFD,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08YWR8G7,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08LH89X8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09MQJ8PV,iDreamsky Technology,IN,Yield,RuleBasedY
+2022-week_03,AD08PFXXKJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088UK8DG,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD08KWWT89,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089Z79Y7,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08KF7N8R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08Y68CSL,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078Z8M8K,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD078Z8M8K,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD00NQSU6V,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07NW9LH8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088Z898T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08QF88VD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098Q8LVT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088Y8T8R,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HPS867,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD008MG8MM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07STGP86,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07RXCJGX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07S88G6N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07FCWW7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088LGYDX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07G8K6JH,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07YRRZH7,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00LZUMLP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08P7JFGP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YHK8WV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09MJ8JW8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00M98QMR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD009P8L7C,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0998THH8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07C7KS78,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD07898DFT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08SWFYR8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08W88FLX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07F888W9,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07F888W9,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08S8LT88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08LY7IK6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07WHWVFR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08G8WPT8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08RC8876,G-mode,IN,Yield,RuleBasedY
+2022-week_03,AD07S8LCP8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VMGQT8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08L88PV8,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD088SPLJZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y7NNQN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07V8W9P9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0889PVHX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QVNH9F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078PSY88,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08HO9EC9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00F8ASXU,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08MU6O7H,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08MU6O7H,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07QCV877,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD88078887,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08FG7HJX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07VPT88Z,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09PL8RK7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098F88ZL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09998WZS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08896XPE,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07GKF88,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09D8JHG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00S9PEMG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07H8N8RJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD079TVD8G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088LSFF9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08R8CS8Y,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09PDXP6T,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08CVSGR8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098QDH8F,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098DJQMP,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08KHWVYS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07QV888W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088LJGP9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD096KZV8Z,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09F6FDQP,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD00PML8AN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078XK88L,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088MG687,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD08EYOCKV,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07LCQLFS,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08LZSWXW,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08K8SXSC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GFLFMP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD008XT88J,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07S8YST8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD088RXC88,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09MS8JT8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD099RR8MF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07F8WYC7,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09G8L8J6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00CFLXJL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088MFZRF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00XVT8VP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N8QMMR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08HZNSSM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088GWF8W,Bizanga,IN,Qality,UserPopQ
+2022-week_03,AD07MHZ6RZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y98XG9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07J8V8QG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P8Z7VG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08V8V88T,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078Z8M8K,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD078Z8M8K,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD078Z8M8K,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD078S98RJ,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD078S98RJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08F8N889,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08W8FKKY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08XZ9LYH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JNKTPZ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KCP8NT,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD089T7FWH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098R9VKJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08CTQP88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00A688MQ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08D88GL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0888788S,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096VF8YY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06XFG7D8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078CR8WY,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07H888DK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09N8DSZ8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08GVA878,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0898DLMR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08FT9X8D,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00WO880N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08D8D8NS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0788DHJ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088W8HW8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08D8QS7N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088VJNMS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08J6D7D9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088FL8G8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08W996RG,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08J8Z8ZJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078F8D6Z,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00DT8UQE,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XPR9WV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00IJAWJR,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD07YXM8H6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08RP6P8X,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097RXPRM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00KIR88X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07X9SFMW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09K7Q8PX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD089V9PSD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07TPLXZL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD007E9KUJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00MGFZGV,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD078RLY8G,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098JJTLY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08W8F87X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09FZK8RQ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09Q8CK9R,Modanisa,IN,Yield,RuleBasedY
+2022-week_03,AD079MFK8T,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08NXKN8S,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD086ZVCQ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09NMGL8R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08YK8JF6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0788GKHH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07SGCDWL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00CI8W8N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HKYPVK,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD009DIX8Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09C88HKL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09NF8JV8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0978NZC8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08K8N9SX,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD0888KPK8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD088CPCHW,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD088NFL88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZMVPYH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08ZMTJML,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08888888,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07TH8PZ6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08SVPXZW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07968H6Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09MMFSYV,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD097Y8RFK,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD077K8L8V,G-mode,IN,Qality,UserPopQ
+2022-week_03,AD09KPQVDR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07YZMQHR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079H8D8L,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N6P8G8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07H8YR8G,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08KE8VPP,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08Z6Y8RY,G-mode,IN,Yield,RuleBasedY
+2022-week_03,AD08N78TDF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QYFXQ7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08PGMK8D,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08ZYS8S8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0988KVVF,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07H8DGX8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07F889J8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD00JMJDGP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07QH88NL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088NDN8T,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07N8YPD8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08886F8G,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N8PFJL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GFQW88,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09788SNY,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07RM8HM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088RKCDQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07DGVT8N,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08L7KSWR,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07SWS8WD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09MZ886T,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07LC7LF9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07SN8KTP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07WYY8V9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088878FH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0898FKZ6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DJ8LGJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08QH88C8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08C888X8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08F8DL88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07F8KZC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07VL8DND,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD077DC678,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VGRH8W,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VMMQGL,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD000QFSOG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HV9DV8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07QGPW98,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078HGT6M,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07T7TTF6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD079FZV88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088NV786,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098GS9DZ,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09L8Y8YR,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD088LX8H8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08PYD8NM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088PJ7QP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08RSKK88,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09PJJLZP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0788JK6N,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09G9W8WF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07N7MQ8W,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08TXFLKD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00DOU88C,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XP9NTT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078F8SXP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD080N8FVP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088C67FY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088KZI8V,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08IAC0RM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08FK8L8J,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00G6MUM7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088WGPS8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07H9QH89,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08FDXTHG,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD009SOS7Z,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD009SOS7Z,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD079SWV8S,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078MJXYX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088C8KRJ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08FRM87C,G-mode,IN,Yield,RuleBasedY
+2022-week_03,AD088RPP88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888S8SG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0889VLCH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08FGNPQ9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098X9DGZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088Y8886,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08X8GRJV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00GMZWWC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07L6LR8H,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GXYF8H,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD07XWH7TX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096K8PGH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09KLHWGN,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08MFSP7J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088LG8RT,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00IUJ679,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08PPMGVD,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088M888K,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00SX7ASO,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09JZ7JXD,Modanisa,IN,Qality,UserPopQ
+2022-week_03,AD07FYLCXJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09F8NQLM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00DRE8ZH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MXN8W6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088L88R9,MoJoe Brewing Company,IN,Yield,ManualY
+2022-week_03,AD08C988M8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07ZRTPG8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09FS86KM,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD098N6888,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088KY8O8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088MDMW8,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD09N8YJP8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07TM8J88,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD077JJX8J,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08LRFCLW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09779CSV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07L8ZSNY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078RLCG8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD099LM9X8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09LHZSMR,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09GZ8XPF,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07QK89V9,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD07JQPH6S,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD098N8TWZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096SL7C,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0987TSDV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098ZJV6Z,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098ZJV6Z,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07MFFR8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NZG8LQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09L76SZG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088WF8WA,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08D6YH7G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08SWPJ9F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07HJ8SD8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DNVV8H,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08D76LSF,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08L6P8SX,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088G9JS9,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD0978VXJL,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD00KYK8AI,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07VMFFDS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD88770988,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD098JMM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098P8NKN,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD0788ZQDY,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07Z977X7,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD078N88GH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KP78ND,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09DX78HN,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0788DQTG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VQ8KJG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07NVGXK8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09M9T8RY,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00T7THIW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08W88XSY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0988W88Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096VF8PJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09H8GWSY,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08SKD8VL,Fry Multimedia,IN,Yield,RuleBasedY
+2022-week_03,AD09CJNQ88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD98888687,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07SYVYPH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00NY7A0M,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD098K88F8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0788XX88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09NYKVR8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07TXVL8G,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07DLPSZS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD008KH8U8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LSMN0D,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07NTKGW8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07MN8TGQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07Y8N98K,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088M9RN,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08GLZCP8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DP88NS,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07GQZSS8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08JCF8K8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08EOS8Y8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09J99JN8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00KGA8UN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD099FYJ89,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD98879808,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08R8VVVP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0768WK8F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088DYXF7,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08Z7X8XC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08W88NFW,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088L9QNG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06XKW7SF,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07QHQK78,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07CM8JQV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD096MPGLX,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09L7TJYH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GKT8XS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XLDV88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08MV8QM8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07VLY8SV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078FPYJH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07VSRJTW,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09788Y8H,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07T8G8NV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09CTY7TG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07ZKPZ8M,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00CI8W8N,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07VR87V8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD089YRVC8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09M8QLWX,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD077888Z9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD09P8Z888,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07VN7T88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KHPDG8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08EFVDDH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09HXT7YD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07WJXCTG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08LYU8ZF,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088CY98T,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08HWM87P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07STLQ6L,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09D8H8F7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08JLLP7P,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0068GNF8,Cuiker,IN,Qality,UserPopQ
+2022-week_03,AD08K8GV8Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09K7FT9T,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098W88ZQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078WYW77,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD07VQ6MQ6,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08H869OK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00T8WHJG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07HJRMNL,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD08V87888,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD07Q7H8PS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08MS889A,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08LNQ6FX,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08QYSQRC,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07D88P8N,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD00PCQEWU,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S888WX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08DNKJSG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08SWNJFC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07L8S88R,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09PJ878G,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08LYGLIQ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GDPF88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD096ZNV78,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08E6VNJK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HL7WCW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZJ7T99,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00KL8DX8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08868YF6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088X888R,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08F9V8KN,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08MD888X,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07M8HFLK,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD09HJHZ6H,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00M87T7Z,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08HHQXML,Crescendo Networks,IN,Qality,ManualQ
+2022-week_03,AD09GLQGSP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD089KLYXR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08FCSJPS,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088Z8S87,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08K8QD7P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088Y8XQ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD88789988,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09LMSY8K,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08LCP87M,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08RRPN8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088DHYX8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08MM8LK8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08HJ8HQH,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD07TF7DLZ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09JWM68G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09FTDKNJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07WX8768,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00KIE88X,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD087ME8W8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098799TJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07XTF8HP,Crescendo Networks,IN,Qality,UserPopQ
+2022-week_03,AD096QJKKL,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD06XSTTX7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD098TN9JF,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08NW8CMX,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD00UTIE88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07GP68KX,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08D8SNCG,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD88888866,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09MTY8MM,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD09889XCZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GGX8Y8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S8Q9ZQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078L9VZW,aPriori Technologies,IN,Yield,RuleBasedY
+2022-week_03,AD07DP87MF,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07DP87MF,RelayFoods,IN,Qality,ManualQ
+2022-week_03,AD099ZZ88J,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00ZYLMQH,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08C8M67X,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08KLSVQY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07S6NXRK,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD088XGCQP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0788JM7G,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08X8KF6J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078QW88F,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08NGP8TW,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06XT8JDZ,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MDC8K7,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0888VTP8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MCRDNC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07L8HXNZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07888QX6,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07TC88GK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07G6RSXP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y78C8Z,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0998L8N8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00KMQT8Q,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08P8ZR9F,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07YSHDZY,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD08MNM8ZG,"OpenDesks, Inc.",IN,Yield,UserPopY
+2022-week_03,AD07DGLDTV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08CH8888,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08GSDZL6,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09779CSV,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08MXH8JV,aPriori Technologies,IN,Qality,UserPopQ
+2022-week_03,AD09JG8DMQ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD088869FJ,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD08VGJRZ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09878TSS,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078QLJZ8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088N8DF8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07MCJGFJ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08S8CTGV,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD0978XTPG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08V9GGL8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07CMKL8V,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09HZK7ZL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08Y688FX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07V888VR,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DPYZJX,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD06XRCX9X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08WRNWJY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD097JPH8P,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07V79HM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07DPVTF8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08YYY6F8,Modanisa,IN,Yield,RuleBasedY
+2022-week_03,AD08897XKD,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088JSXK7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08DD88S8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00XRJOA,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08HQ8M96,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08TD999G,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08R8XH8N,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09F8CG88,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07W8WW9K,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08RWS88F,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08CHJQQK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078DMHP8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD00M87X9C,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD089MTVYZ,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD00ZLHCSM,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07VV8MRP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07RJ8PHP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888S8MF,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07H8X8GT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07KS8H96,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08R78X7G,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0888NFVP,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08K8RC8O,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD088WKHNK,Fry Multimedia,IN,Qality,UserPopQ
+2022-week_03,AD088L88R9,Search Million Culture,IN,Qality,ManualY
+2022-week_03,AD00KRCA6E,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08T8CLC8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD00Z78R8Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00IP6CFZ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07FR8Z7P,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09G98FCT,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD088MMG8C,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD07F8VH6W,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD097YK9DP,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07G889FP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08C876DL,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08M98HJT,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096V8XS8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098SXG88,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD088X8678,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08D7KLKY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09FTF88V,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08YJDNWY,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08J7Y8M8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09FSVNNR,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08M8CS8R,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07PDHTHN,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD07RGPYXL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07JVH88X,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD98788978,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08KKF8XM,Bizanga,IN,Yield,UserPopY
+2022-week_03,AD08LWYY69,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD008X8GUE,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088LZGK8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD0888SZDT,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD097N8688,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07KMF7P8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD09JKLLK9,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD099WKKXY,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08N9USR7,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07NM8VK8,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08NPPQDK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00IWLJ8U,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07H8LQP8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07T788YK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088T8Q8U,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08898CVG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD00TX80T8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07GQS88J,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08VNMGM8,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08XRK7K,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD0079Z7EV,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08VNVHLY,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD087KJ8MK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07FX688M,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07V8SM87,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00SL88GV,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07G89K8T,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078N7DYM,LocalVox Media,IN,Yield,RuleBasedY
+2022-week_03,AD078MX88Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09MT9CC9,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088DQ888,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0788Y97R,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08CT88FM,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08N0M9ES,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07NRY8VZ,iDreamsky Technology,IN,Qality,UserPopQ
+2022-week_03,AD09M8V8VR,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08TT6DPX,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07DS7N8L,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07N7GCLF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07P6PQX8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KRYVVH,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08896TRW,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07S8PSRD,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD08IEXX8J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD007N0VUP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09G6K8HK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08G8N8ZN,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD088XW9TP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08XXPSPC,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08X8RR9H,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD088XQ9RM,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00GLDJ9W,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD07MFQQJ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD0888ZQKC,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07S8FY8J,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD009P8LKQ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09JWSRPV,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD00O0R8K8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08GG6GQ8,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD00LVMTA8,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD07S88GNQ,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD08R78QKT,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD08KA8P88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07DQKFKF,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08LYZAVG,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD07XTS6DL,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08ZCJQ88,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09HCGKJ8,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD09NC8PTQ,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD098R8PFL,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD08TH76W9,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07MRNY8Q,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08J8VDQ8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07W88J7K,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0889XQYN,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD096VF8YY,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0888HDZ8,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD07WXJGQQ,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD0787JQRT,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD00TFC6PX,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD08YKF88J,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08XK8XV8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096L8HZG,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PG8TG7,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08PC87D8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07ZZ88GS,Puentes Company,IN,Qality,UserPopQ
+2022-week_03,AD0768T8X8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07VRPHCP,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08XJGNQS,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD06Y88KRT,MoJoe Brewing Company,IN,Yield,ManualQ
+2022-week_03,AD078CQ7TL,RelayFoods,IN,Qality,ManualQ
+2022-week_03,AD08HLZ88Q,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098889XK,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07V9HZ8R,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07XCQ7WH,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08JS8MLQ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07V6KS88,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HV88HL,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08888RQ8,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD096JZNHK,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD078YSNVP,Search Million Culture,IN,Yield,UserPopY
+2022-week_03,AD0979MSVG,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD08ZQKYV,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD08PS8KXJ,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07GZLWFT,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD078QPNT7,MoJoe Brewing Company,IN,Yield,RuleBasedY
+2022-week_03,AD07P7HW8J,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09JMTGKV,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07JDPYKR,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD078Y8PJL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD09C8W88F,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD098N8R88,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD0796TKK8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07TS6SM8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08HHCDN9,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD09M8T8SK,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD00K888OI,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD08KSJ88S,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD0888C6QJ,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GFLFMP,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08CZRKMD,Puentes Company,IN,Yield,RuleBasedY
+2022-week_03,AD07L6GZYD,Puentes Company,IN,Yield,ManualQ
+2022-week_03,AD00NTCHCU,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD08ZKYKKZ,Search Million Culture,IN,Yield,RuleBasedY
+2022-week_03,AD086Y8GF8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD09GS8M8W,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08S86DMF,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD07RTCNM8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD09CGJFY8,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08C8FZQL,MoJoe Brewing Company,IN,Yield,UserPopY
+2022-week_03,AD07S88XVX,iDreamsky Technology,IN,Qality,ManualQ
+2022-week_03,AD0787VDH9,Search Million Culture,IN,Qality,ManualQ
+2022-week_03,AD097JXC8,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD078HZSPD,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD08SVPW8J,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD098T889V,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07TXFL8Z,LocalVox Media,IN,Yield,UserPopY
+2022-week_03,AD088CYJ8S,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD09GFM8CG,Puentes Company,IN,Yield,UserPopY
+2022-week_03,AD088MN8N9,RelayFoods,IN,Qality,UserPopQ
+2022-week_03,AD07VRMXFN,Search Million Culture,IN,Qality,UserPopQ
+2022-week_03,AD07P98N8Y,RelayFoods,IN,Qality,UserPopQ

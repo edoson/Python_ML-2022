@@ -1,0 +1,3219 @@
+week_id,ad_id,requester,region,recommendation_type,rec_provider
+2021-week_48,AD08LDFH8N,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD00Y8WD60,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08HHW7OC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07TMKDG8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08F8WYFL,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00K0MIFY,Fancy,GB,Qality,RNNQ
+2021-week_48,AD00PQ77PP,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07HVYPQG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00D7DU6Y,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08F69687,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD08QSMFXF,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD098WCTV7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N89A9O,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008708RG,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD0088QHMA,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07S98N8F,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00MJ8LRF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098L9TXK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00IGCC8G,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD098KCF6T,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07C79Y6J,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008PM88Y,Fancy,GB,Qality,ManualQ
+2021-week_48,AD08H88Y88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08FY8Y88,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088TH7PC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00NA0K8Z,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD089VKQSK,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD078WY8Q8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD076TQ7KK,Fancy,GB,Qality,RNNQ
+2021-week_48,AD000ZI0ZU,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08LDMSLD,Search Million Culture,GB,Qality,RuleBased
+2021-week_48,AD07DQGV8Q,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00LW8APO,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07N88XDM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00UMS888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00UMS888,Fancy,GB,Qality,DNNQ
+2021-week_48,AD007FCIOP,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD080OVGLV,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08HYI6NA,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09VP8ZDY,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD008OQXP8,Fancy,GB,Qality,ManualQ
+2021-week_48,AD008OQXP8,Fancy,GB,Qality,ManualQ
+2021-week_48,AD008OQXP8,Fancy,GB,Qality,ManualQ
+2021-week_48,AD08MU88M8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD000I8ZJQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08SWDW88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07GL7XD6,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008YH078,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD087CN6HS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07V7JYJR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07QS8VCL,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07QS8VCL,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07QS8VCL,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07QS8VCL,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07QS8VCL,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07QS8VCL,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD088QWLZM,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD0800A88H,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07YSKVG7,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08GDHDZ8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07VP8X88,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD097RMNWL,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD009F98E8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00VMDCDT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08JVCGKE,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008M9SJ8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08FJFP9J,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07FMTZQ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08YZD8PW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD089T88HQ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08KA8NAG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD077PWHZT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD097HKSFS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008UTSMC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08FMY88S,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD00JEE8ED,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00UTZ8JK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098ZV99T,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00F89YD9,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD07KGG878,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098686HP,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00KLDQJK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07SS8YJ7,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD088RKTFL,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07ZKWN88,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07DP8WMR,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08TWTVC8,G-mode,GB,Qality,XGBQ
+2021-week_48,AD07V6H8XD,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08V8988D,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08M8YNHS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00T6C8Z6,Fancy,GB,Qality,DNNQ
+2021-week_48,AD09JHD7RV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08WRDXPX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098T887X,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08J8OD0G,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08D66D89,G-mode,GB,Qality,DNNQ
+2021-week_48,AD078RVDM8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00F8DNRI,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09CMXDD6,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08XW8PQC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000KDS8K,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD008D8X88,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD098LPX8L,Fancy,GB,Qality,DNNQ
+2021-week_48,AD098LPX8L,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD077P8D6F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08HH8K0M,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009ZARG8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08MQ7JV8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07J8KS98,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD08H8ZHL9,Crescendo Networks,GB,Qality,UserPopQ
+2021-week_48,AD0998P978,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08MQZYSV,iDreamsky Technology,GB,Qality,ManualQ
+2021-week_48,AD087Q8MD8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08NQ8Q8F,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD078FJ6FW,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD07V9LT88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008UOY8A,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD078R68M9,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07TVYHXY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078SVTGJ,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08S6KMQC,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD06XSXK86,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08NQ8ZDZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098RNXS8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0078FNIN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08AU8OU,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD098DRZS6,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08W86WWC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078C8W9T,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078NP9FQ,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD08H8V86T,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD0788SP8Z,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07P7KZNP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08MSRC98,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00886RSF,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07TCM6RK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088QRN6H,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07S8RGW6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088PEINF,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00V6HUCJ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD096T88H8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD076MHJ6Z,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07ZZP7PJ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CH6RYY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07FGC8ZL,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08W8K97L,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08889TRH,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD08F8JSNG,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08TXZJCZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08NMT8TL,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08DCTNKR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00W80HL6,Fancy,GB,Qality,XGBQ
+2021-week_48,AD08NWNW9L,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086P6XNC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008YPR8O,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08WWP9D8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088UHT68,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088L68X9,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD07GK8CVX,Fancy,GB,Qality,XGBQ
+2021-week_48,AD088N89ZK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078Z7F8L,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08M086SK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD080W7POV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08Z8R8QQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07PFW6DV,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00887XWG,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD00P8ECWD,Fancy,GB,Qality,XGBQ
+2021-week_48,AD07L8S88T,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008LLWCD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078MGM8,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD07J88688,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00PRVCNQ,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07RW699Q,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07WXVSXL,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08M8QQ8S,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07W8PFVZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08KC8698,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD098WGWR7,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD08Q7WTD8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008HMQE8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078TP8T8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008OQYAC,Fancy,GB,Qality,ManualQ
+2021-week_48,AD008OQYAC,Fry Multimedia,GB,Qality,ManualQ
+2021-week_48,AD008OQYAC,Fancy,GB,Qality,ManualQ
+2021-week_48,AD078P8D7N,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0009PCPL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008A66VH,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD088VS9QK,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00AZTTU9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088MKTNQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07NWFKT8,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD00FWRPIE,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08FSLSE8,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD07GRR8YP,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08M8W788,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08HQYGJZ,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD07888JYS,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD00FEWP8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD09KXQ8MM,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD00RYOSPR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07VSY98H,Extreme DA,GB,Qality,XGBQ
+2021-week_48,AD08LZ8X8I,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07TJYD78,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00MELN68,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0866J7CQ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08W9GZY6,Fancy,GB,Qality,XGBQ
+2021-week_48,AD08HVFXJN,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD006EHWDE,Fancy,GB,Qality,DNNQ
+2021-week_48,AD006EHWDE,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00H08CZY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00JAG88K,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07FVRQLC,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD097STNLC,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008AIPPF,Fancy,GB,Qality,RNNQ
+2021-week_48,AD098J8Q8Q,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06XDH986,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00JE8DA8,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD086ZSYYD,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07SLVJWM,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD006IUY88,Fancy,GB,Qality,DNNQ
+2021-week_48,AD097F6N9T,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07SC8MMC,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08N7RVVE,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD07CHNSHM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088LMW7Z,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08SJ8RCL,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088HWLZ9,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08WWGRWH,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07W98QXN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07XYJD8S,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07DFQWGY,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD86888908,Crescendo Networks,GB,Qality,UserPopQ
+2021-week_48,AD07N7YGZQ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07JF8G9G,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD000JTIX8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08PVKMCV,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088SCYSL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD087QS6GU,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07Q8JX87,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD008MNNZX,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD088YTKC8,aPriori Technologies,GB,Qality,ManualY
+2021-week_48,AD08N6RLDC,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD00LDAKF0,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08YWLL6W,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07XQ9FQ7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008IIEDC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD099PXNT6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08MVK8TF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07VZCMWT,Fancy,GB,Qality,DNNQ
+2021-week_48,AD089KS8QX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088L888P,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00ZZZF7W,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008CJVTL,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008CJVTL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088FM8T8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08V8NRMX,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07DP8WDC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0786S8QW,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008C88J9,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD098RG98S,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078VFY7J,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08JQCLCX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0808RF0K,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0788L86Z,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08LPRRR8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08NDFXSW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000LFXQ0,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098C6SNV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00CXLMGV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07PW8MTH,VarVee,GB,Yield,DNNY
+2021-week_48,AD076HP6WC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098P9SKM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07SHX88K,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000078LU,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07FF8YN8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088K8LC8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07C969WR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09987LJX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07V8RG88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08YN89VP,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00GVDWPW,Fancy,GB,Qality,XGBQ
+2021-week_48,AD08K98Q88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08XR8XJP,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07W8P888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08F76PFS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08LL878W,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD0008JT8G,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0089IIY8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098V8K8N,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07GR8H8Y,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07H69788,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD079GSK8W,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098PXM88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00TU6J0X,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08F8V6NY,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD098TMWFM,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008SQLYP,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07KCHHWV,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08KG8NSK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088HF6NP,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD076G8WCH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD006TUIRE,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD00CNTWC8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078C7TVS,Fancy,GB,Qality,RNNQ
+2021-week_48,AD078FH8NK,Fancy,GB,Qality,XGBQ
+2021-week_48,AD088QR798,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00L68K8I,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0888J6KY,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD008MWNEF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD097RY87Y,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07NPNHWT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098SS88H,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00A76IVS,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08LNZ9LN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00ENO78G,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08XJD8S8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08FGAF8V,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07HRFYX8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD098TZSPW,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07GN6P88,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08DFKHPS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07NT7VMX,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD088FJ8KS,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD078J8Z8F,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD008TG7MF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088SLQX8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07XRWP9Z,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08NWZD6G,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008QI8SA,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Z8TL8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD077GR8L,Fancy,GB,Qality,XGBQ
+2021-week_48,AD0880WLWS,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07QS8VCL,"OpenDesks, Inc.",GB,Yield,RNNY
+2021-week_48,AD07QS8VCL,"OpenDesks, Inc.",GB,Yield,RNNY
+2021-week_48,AD07QS8VCL,"OpenDesks, Inc.",GB,Yield,RNNY
+2021-week_48,AD07QS8VCL,"OpenDesks, Inc.",GB,Yield,RNNY
+2021-week_48,AD07QS8VCL,"OpenDesks, Inc.",GB,Yield,RNNY
+2021-week_48,AD07RSRWSS,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08DN88SM,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0869R8FP,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08MU8P8O,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0898MNZJ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07VLQLQX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088K9GSA,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008GEQV8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08FRZZ88,Fancy,GB,Qality,RNNQ
+2021-week_48,AD098WHYP8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08GJOVCO,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD00VV97C8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07XPG888,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08R789FT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08R789FT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08GLYGRL,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08IHIE7D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD000078LU,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0087TO08,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD0008QFH6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD007T66WE,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088DWCZX,iDreamsky Technology,GB,Qality,ManualY
+2021-week_48,AD08L68G78,Mission Street Manufacturing,GB,Qality,UserPopQ
+2021-week_48,AD08HZXS77,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07VC7TN7,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08R8PH8D,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD096MN8S8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00YYY8JU,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD088H08HY,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08GQ6FDN,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07G8VQN9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06XJ8RN8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08W8KWTH,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07V8XPWP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07M6LDP8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD079VRLN8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08L8Y8KR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07F9TCXG,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0088RJKF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08C08MX8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07KNH77D,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Z8M8C8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD096K8VDF,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08MZ6ZYU,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07T8D68N,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008ANWFG,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08MTQ8JV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078C8988,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08T9J7X6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08F87LJX,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08C9T8RG,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08GLGF8C,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078ZSTYC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00608O88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Q88F8X,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07MZ8LH8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD087TPH89,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07QK88NQ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08WCYDG6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Y88L6T,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08TMMJCK,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00D8R88W,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00D8R88W,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08HRVJ88,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07QPZ98J,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00F8XS8S,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD00L8DPDK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008DCNAU,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07PMQHXP,Bizanga,GB,Yield,DNNY
+2021-week_48,AD096K8M8F,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07G88KL8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07X78T8R,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08CCMF9G,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00X8TNSC,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08CCDSP8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078J8Q9H,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08MT8PK,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07GXWDHJ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD089DDSML,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08F7NZ8L,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00967RN8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07QL66VV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0989W8YQ,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08GR9YLQ,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08GR9YLQ,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08GR9YLQ,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD099NG8TM,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0789N6YP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD007S6NM8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD086DY6MV,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07GYTG8M,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008TL7VZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08SQ9HMP,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD000M8V8X,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD078R8H8D,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07ZFT8G8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088QFZ9D,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07RVXV8X,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08FDJH86,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07ZZV6WY,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD008DXNS8,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008W8RRG,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD07XPCLTQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00PIOMZ8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD078QWQLK,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07CMT8XS,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08ZKWMFQ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08LC6YNM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07RZVLLH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008EE8Z9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08Y8L88M,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0086OCKY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07HWHNMH,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00YYA8DH,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08PDMN8G,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0087OTLA,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07GKWM98,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07Z89W7N,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD09J8YW87,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07HC7RH9,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08W8SMJ9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08W8SMJ9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07K8XMMD,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08RKRP8Y,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0768FFFL,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD00L8EAX8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00IC8HTG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078RRZWH,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098XMVR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0888FTZM,Mission Street Manufacturing,GB,Qality,RNNQ
+2021-week_48,AD000GT6CG,Bizanga,GB,Yield,RuleBasedY
+2021-week_48,AD087PYQ96,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08V8GSC8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08M6ZGQD,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08WSJDKR,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08C7V986,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08LWI8IW,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD096Z9CZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098QPY8T,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07GVF8K8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0869J9KG,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0998HC6Z,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088DDS8H,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD09FF6878,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08R68LG9,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD086JYFJ8,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07HK8XHD,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD096X9PZ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00HSMMFK,Fancy,GB,Qality,XGBQ
+2021-week_48,AD088AOGP8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0088MKJJ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07QGXLC8,Bizanga,GB,Yield,DNNY
+2021-week_48,AD08F7XNT8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078YSGC7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08NCYWUC,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD08XNV8SZ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07QL88VH,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07THFL88,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD07WPY8HV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098TLJX7,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088FRZU8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07KX8XZG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07CD8PDZ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07NRJQH6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0997YWX8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008N00GD,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07S89ZXR,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0988JZFQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0788Z6RV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08IAFFXW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07C8Q8FJ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07XM88ML,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD000LKU8A,Fancy,GB,Qality,RNNQ
+2021-week_48,AD088XVJH6,Bizanga,GB,Yield,DNNY
+2021-week_48,AD096RJZ8F,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD078V868C,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00T89W8M,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD008KRN6G,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00RVE008,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD06XCSQ7P,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08LMZLZS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008AWAEQ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07R688PJ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07Z8XSS8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07Z8XSS8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09HSN6RS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08R8GTSC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07X8Y8NG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N8SE0I,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD096GC8F8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098888CS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00V6UO6Z,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088LMZPJ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD00JSO8EI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078ZHHDQ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD087LS8P7,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07HLR7PP,Fancy,GB,Qality,XGBQ
+2021-week_48,AD08CJXLCH,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SQ8CF8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SRY9HN,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09CF7PQ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07HQMHDG,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD0878NK6T,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD077PW8XJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD087V6DR8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00CZ6V8E,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07ZLWW6Y,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08CW8VY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08SNRM8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00CJO8Z8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08LXLFF6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07QS88KQ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07CN8Q8H,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07H78VZ7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00P870NE,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD08JM7CZQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08YD86H8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08ZJD8JY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078ZZ8J,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08888U6W,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD089F79D8,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD089F79D8,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08GX87XX,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08LKY88C,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08LDRRDQ,Fancy,GB,Qality,RNNQ
+2021-week_48,AD0078A8R8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008GLKDR,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD06ZYL8D6,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00VUMWTT,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07GNP89X,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD0788Y9XT,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07ZP8Q88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00P08DVC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07QRYY8C,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00DY8A0K,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD08MXRSEF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08AC8DTZ,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD007HXSV8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008P7ME6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008P7ME6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008P7ME6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008P7ME6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008P7ME6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008P7ME6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008P7ME6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD87868898,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD0998HXFK,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08GX6T8Z,G-mode,GB,Qality,RNNQ
+2021-week_48,AD08PPM98D,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09FSQFRP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07L888W,Fancy,GB,Qality,XGBQ
+2021-week_48,AD08688P88,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07Q8VZKY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Y8S88W,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08NDSL8M,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD088DE8TC,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD086Q8P78,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08KP8YW8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07N8YRH8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08MMD898,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07P8SR6J,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD008JXP8E,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08SV8PLQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Q8DPCH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00N8JAOJ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00PFCSXD,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD076VJ8QV,Modanisa,GB,Qality,DNNQ
+2021-week_48,AD008LL0WJ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Y8NXV8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0888RKPS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07DCLM8G,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00GVDTQQ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD086L7YJT,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD08XWRP8L,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD07MVHNKT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008VOY8S,VarVee,GB,Yield,RNNY
+2021-week_48,AD08TTK7C8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD006JWUKH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00IIOR7N,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07R8N8VM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD097MR8RW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078CY8C,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07QK8K87,Bizanga,GB,Yield,RNNY
+2021-week_48,AD00CZ6Q8H,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD07TYX8Q8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07WD8KML,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD096K88MM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088NFG9P,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098JXVDZ,Search Million Culture,GB,Yield,UserPopY
+2021-week_48,AD08PDFNNS,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078QLQGQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00YOUM78,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07CKKGSD,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08ZJP88V,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07WHJDZN,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD097VHSWN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD06Y8P889,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07WZG7VY,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD099RQHRH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07YCMJTJ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08VH888F,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008GU8C8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0969SVKR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08F8QHLV,Fancy,GB,Qality,RNNQ
+2021-week_48,AD0789LJTR,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD088R6V8E,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07PLZSM8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08Z7D8VX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08KHTL8X,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00HZV9YE,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD08G8NCF7,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078PW8VF,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD08F8NG68,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0977CD8K,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD0977CD8K,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD0977CD8K,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD0977CD8K,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD0977CD8K,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD0977CD8K,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD0977CD8K,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD088PTPWD,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD09CV7TNK,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD078787G8,VarVee,GB,Yield,DNNY
+2021-week_48,AD09HH96Z9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0867GHXS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08HM8X8Z,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00XT8HAW,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08N8X889,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07XZ8FP9,Bizanga,GB,Yield,DNNY
+2021-week_48,AD0080S8WV,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078G88V8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09VG8VFP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0088MHCR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088SXF8C,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000UQGY9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08DY9NRQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08JSC8NH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0979RDMR,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD098D6L7Y,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD07P8NQKN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0967M888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07FXKY9R,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08TM8JC8,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08LZ6T8R,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07S8YCJD,Fancy,GB,Qality,DNNQ
+2021-week_48,AD099W8V89,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07988X8Y,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08F7WE80,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD097MQT68,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD008706T8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08M0QR88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0987WKQ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08MFF788,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0768WS88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088JSZK8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098W8S78,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Y89XMJ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00TQUPXK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098T8GZZ,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD07GR8CTC,Fancy,GB,Qality,DNNQ
+2021-week_48,AD086VP8S6,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00MXXHN7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07MVGXMS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098X86Z8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08E8RJHP,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD008I8OWD,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0080888O,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08YNL89D,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0899AYGE,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08888WWY,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07PZ88NS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07FQ6VPR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD087TP889,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07HMCG8R,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00ODE0XJ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07WZV888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07WZV888,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00J88R8P,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07K7TSMX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0788JMNF,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD0788JMNF,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD0788JMNF,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD088O8I8M,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07DWS88C,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0888PDGR,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD008XR7OZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07CRNCKM,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08CF8WYH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07F6DCPQ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08MCLXNY,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00HLPP8K,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD077VM88N,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07PGT7LS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0778QL8R,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD08R6FLC8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07DVVW66,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08SGPXH8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0789Y8YC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08YNCVP7,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07R8FCCC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008HMW80,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008QSANQ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD078DXC8N,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08N8FO98,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0006TXE8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08XJSF88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00F8CQL8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078Z7J7,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD09GJP6M6,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07MVZPN8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08FMXKIO,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08S788YY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00887WME,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00GLRYQ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07WMZS7K,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000O6QJ8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07XR867,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07XR867,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08RYLMC8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07QXX8J7,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08FJD8ZY,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08HS8RKH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0087C8U9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088NXNFJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07VD88D6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08KGDM8P,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08YMYR8Y,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08JWP8P9,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08N7ER88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00LH8DMU,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD08RP8Y6R,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08M8CYXU,Fancy,GB,Qality,ManualQ
+2021-week_48,AD08M8CYXU,iDreamsky Technology,GB,Qality,ManualQ
+2021-week_48,AD078RC8FP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07QCMCVD,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD0888YL9L,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08998KZ9,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD009JTW8R,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD078MT7YM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008VA8F7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08DFTNVY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08MFLHTZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00LXAKPA,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07ZJ9GM9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00P7PIZG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08GP9Q97,G-mode,GB,Qality,RNNQ
+2021-week_48,AD07G8THVL,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07YGRLRZ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07XSDF8C,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08LW8J88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD009C988Z,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0888YMQ8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07LFN888,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008P8Q0X,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00O8PRT0,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD077Y8MYJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0888Q7Q8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07RQFGCZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD087Z9786,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD087Z9786,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0089OQLG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07T7LW7D,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD006JGFU8,Bizanga,GB,Yield,RNNY
+2021-week_48,AD006JGFU8,Bizanga,GB,Yield,RNNY
+2021-week_48,AD006JGFU8,Bizanga,GB,Yield,RNNY
+2021-week_48,AD07JJQ8RD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078RVLLL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07R6H8K8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0877888I,Fancy,GB,Qality,XGBQ
+2021-week_48,AD08W88KH8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08PNZDQF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06XP88DK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07JVRLD8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088RQ7Q6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07VY86MS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00088TL8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000H6UNW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0886PMST,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08LXA78J,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07SRXZ8D,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008J0FNZ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08N8N8YV,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08H888H8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009HUIE8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00EV0XNZ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD00R68GQ8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0080C0MO,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08KWCVRX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07MCCHQS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08679NM8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07FW8TZ8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08H8T7KX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08MXRQ8F,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD086LJTJ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000YKH80,Fancy,GB,Qality,XGBQ
+2021-week_48,AD00K7DD8K,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD098LT8N8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088CP9D8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08L88V88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0077HAPI,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008XCAI8,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00L8NE9I,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08F8TZW8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00YYHUXK,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08DTZN98,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08N8VR88,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07QTKZF8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08YHHH8S,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07Y8CHRM,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07JJQ888,Bizanga,GB,Yield,DNNY
+2021-week_48,AD078LH6F8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD06ZZQNLG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00TZ80WJ,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07TT7C8K,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07V9NXC8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08SCDGZS,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD06XDLN8J,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00NFCL98,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07NLGT6D,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07QVFHCJ,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD00DDSJQS,Bizanga,GB,Yield,DNNY
+2021-week_48,AD00DDSJQS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08PCDWVN,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD07M8JDLV,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD007TLE8J,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08C88RZS,Fancy,GB,Qality,RNNQ
+2021-week_48,AD0788G88R,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08D69M89,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07XKCFSH,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD078T8LPS,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD08K7MDXQ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD098DKXGZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0080ERMI,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00LREIVK,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07TKJHFZ,Fancy,GB,Qality,RNNQ
+2021-week_48,AD00SDECGG,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08C788G8,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07QK7FTC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07YN8TXG,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07P8CW6L,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07W8QQLX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08CZC8PN,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07GN8TT7,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07VV9QCS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008EPWLG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07NW8KDF,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD000Z8R8G,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08DXFTC8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008YAKQI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08XXLPTH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD089886KH,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008UFXS8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088EJZYA,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD087P8ZQY,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07GL8MMX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009Y8SFR,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07V88RXF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008ZETT8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07RWNKW8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00OD07XR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00JEHP8G,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07C8Q8LZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD096V888Q,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD0886XUYT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07NXRRRT,aPriori Technologies,GB,Qality,RNNQ
+2021-week_48,AD008KK8TS,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD080GJO0O,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08L6XQWK,G-mode,GB,Qality,DNNQ
+2021-week_48,AD08L6XQWK,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07TYCY8W,Fancy,GB,Qality,DNNQ
+2021-week_48,AD096WDL88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008QXHFP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD087QKDRN,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08MF9PS8,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD008ZJD98,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0768KGDH,Fancy,GB,Qality,DNNQ
+2021-week_48,AD09JCCXRD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08V88W7X,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07RK6X8M,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD097HSWM8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00O7OZXM,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0078UOPK,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD000PZ8QY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00UC88ED,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD088Z88CG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SXD8GT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SXD8GT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SXD8GT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00FOJCS6,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD098DHSNW,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0880Z8P7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08KS8T6H,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08CEOU80,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098VZS6S,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008QX8G9,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD088CFFWI,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088SF9C8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0888VP8T,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD088KG698,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07Q7TPXN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086QT88N,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07J8NNGD,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08Y966TW,G-mode,GB,Qality,RNNQ
+2021-week_48,AD00ECEG68,iDreamsky Technology,GB,Yield,ManualQ
+2021-week_48,AD08LKVW78,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD008ELOW8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07YVDFT8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD0788XNG8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07JHNP8N,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Z8KR6D,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00AV8OQW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078PDDXR,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD0887J988,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07GYQDZH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088UU08E,Bizanga,GB,Yield,DNNY
+2021-week_48,AD008HVPOU,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07NNKNHH,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07G888QZ,Fancy,GB,Qality,RNNQ
+2021-week_48,AD0989D878,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N6EIOS,Fancy,GB,Qality,DNNQ
+2021-week_48,AD098W8K8V,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08G8J868,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07DTN9MQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098TT8LF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07YKQZVQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N8PC80,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD08KZOTTS,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088V9RS8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD078FTXCX,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07D8TS8X,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0988X8KQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08CGLPSR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008ARIP7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088RNY86,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD098TR8CP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD087ZLXVL,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08F8KM8D,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00SMY6JU,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008Q77TI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Z988YW,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD078CNTNY,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08CZ888Y,Bizanga,GB,Yield,DNNY
+2021-week_48,AD07H8LNX8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0788DXFD,Bizanga,GB,Yield,DNNY
+2021-week_48,AD07N7ZVXD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008QXN8D,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD06ZZFM87,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008J87UM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00UL8ZRC,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD098WRJ8R,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07QS8G8P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N078EL,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08N8M6HE,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000RLQZW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07G89MQV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08HYDNQN,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD09HSQQWC,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD006O88CK,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD098TNPJ6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000J8X9X,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088SN88X,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD076LZ8XG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07Q8JL68,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09CYYSGQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000LNH88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08N88KJJ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08KHSUQ8,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD00MI6WWA,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD078RCLL8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088PAYR8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08R8HSJ6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08P7G8SC,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08MSSIJO,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07H8HW88,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07K8GW6T,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07H88PJG,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07WCQ88L,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008QKE87,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD09DGHNH8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008SJIVH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078W8789,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008PX896,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LYKJ8P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07W88SVY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08MV8DRL,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00098L8W,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07878L6F,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD00IHXQ8A,iDreamsky Technology,GB,Qality,ManualQ
+2021-week_48,AD00IHXQ8A,iDreamsky Technology,GB,Qality,ManualQ
+2021-week_48,AD00IHXQ8A,iDreamsky Technology,GB,Qality,ManualQ
+2021-week_48,AD07V898DJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00OK8KY6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD089YQ887,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD00JQ8MAN,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08EHXKXT,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD06ZYX9CG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09869G6D,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD080SAC8Y,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098WRT8P,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08M78YC0,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0080GVVJ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08888Y69,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008JMGD8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07Y8LY8C,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00WZRT8I,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD080M90Q7,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08VSG88V,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD0989MTZL,Fancy,GB,Qality,RNNQ
+2021-week_48,AD09FFJKHL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08QWY8FC,Fancy,GB,Qality,XGBQ
+2021-week_48,AD0888LFE8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0796MMF8,Fancy,GB,Qality,XGBQ
+2021-week_48,AD008WEHW8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000VIDNX,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08TMHFN8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07PY888H,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08M9I86P,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07CJDKWV,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07CWJFZ9,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08LZ7U6V,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08MQVKZG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SK6LW8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07DL66PJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07FC8LMH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098DQKXW,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09778VGS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07GNNKQ8,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD00PW8PA9,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07PX88T7,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD089H8R9Y,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD07NS889D,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07W8Z7F8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08HYJKMG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09F6MGLV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08D8MS88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07JJ887G,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078QLQKP,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008E8HRD,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08Z78687,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009GDY8O,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008XMEHZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07888ZZL,Mission Street Manufacturing,GB,Qality,UserPopQ
+2021-week_48,AD07J86FVZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0898668W,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0986W8C8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008O0LKA,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD06XX9W98,Bizanga,GB,Yield,RNNY
+2021-week_48,AD08DVG88X,Fancy,GB,Qality,XGBQ
+2021-week_48,AD07Z8JJYR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08JPAJST,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD088FLRFX,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00UPDRFN,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08K8K88K,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD076NW88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09D8P8KT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07N7G9WV,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098R8N88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LJ898X,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD088QCZGQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07DK8LZT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08C88HSV,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07HGV88Q,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08QRDRR8,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD00OXNEU8,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD098QP8LT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07L9S8L6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07HVQKVV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07GTC9CM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0887Y88G,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086898XN,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD078V8KCC,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00DAE88M,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078ZL88Z,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09J8XRTX,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08GJQFSP,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088KK87F,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08P8SZGT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08XCZ6FX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07NKLMD8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00C887N9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0988XL9D,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088XTSF9,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD09GRNGT8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08CEOG80,Fancy,GB,Qality,XGBQ
+2021-week_48,AD008S8YEF,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00IEC888,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08YJRY8F,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08CZRRLY,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD078X68X8,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD088JPXE,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD008YOOXG,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD00DO80QD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09CDKK7P,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07888RYK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD06XY8WPY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0998LW87,Bizanga,GB,Yield,UserPopY
+2021-week_48,AD008A8OIW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0860PQT8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD007XSE09,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08MTEY8R,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098F88R8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08J8LRCN,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008RPMHE,iDreamsky Technology,GB,Yield,DNNY
+2021-week_48,AD08GFHS6L,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07VXNGCL,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00GDQCFZ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD086YZFGJ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07FM76XZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088JY8C7,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD06XFNMS8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08C8TM7H,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000NMAOY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008JM68U,Fancy,GB,Qality,XGBQ
+2021-week_48,AD08XPYRMC,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD078THC8X,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD088JW8PJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD086MCLC9,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD086KZXRJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08Z8D8C8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07T8JRKW,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD098SJJ77,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08C9ZYNR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008CAWJQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07H88CTT,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088SQLXG,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08XMDFPR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08F8PW9M,VarVee,GB,Yield,RNNY
+2021-week_48,AD0888QK68,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09C9886M,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07L78C6W,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0988HWR8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00Y9SU0E,VarVee,GB,Yield,DNNY
+2021-week_48,AD098FQDRM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00LTP889,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD000VJZU8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00888UVU,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07GL8NZK,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD086LPMG8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00EFDXA8,Bizanga,GB,Yield,DNNY
+2021-week_48,AD078WW6LG,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088SY8RC,Bizanga,GB,Yield,DNNY
+2021-week_48,AD0088UA9S,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD088XV68S,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08888S8F,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD097TMLMM,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08KRQC8T,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088S9TW8,G-mode,GB,Qality,DNNQ
+2021-week_48,AD09GG8MG7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09JZM8T8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08ZRHKW8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0888889P,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00Y0YP88,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD079FVG9L,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00AHHQ8M,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008AMWZ8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0897TZPW,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD06XQNT8S,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07LCDTNL,Bizanga,GB,Yield,RNNY
+2021-week_48,AD07L8DYZT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07VKD8X7,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0886DH8P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N0ME80,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD088888Z9,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD06XVVVGH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0988RHQN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07HMDJTG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098DY6MP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009GUDVW,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD009GUDVW,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD009GUDVW,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD009GUDVW,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08XW9CMJ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098J8ND8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08P9RH86,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098689MP,Fancy,GB,Qality,DNNQ
+2021-week_48,AD098689MP,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07QPJC8N,Extreme DA,GB,Yield,DNNY
+2021-week_48,AD08P8C7G8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07V8NPX9,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD089F888M,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0888J8P7,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088ZRSPM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078VYMW8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008TJATC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0898G80H,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008EF88L,Fancy,GB,Qality,DNNQ
+2021-week_48,AD086CC8D6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07F78886,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07GX88G8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD076N9GZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07FDMFLZ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07TFKD8C,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088NKM8K,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07PZR8PV,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD00898SO0,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD079WXDTY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07H9Y98V,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD0777PLFY,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08CU0OAC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07NXTD89,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088IU8G8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08K8LK8M,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD06VWY8RJ,Fancy,GB,Qality,ManualQ
+2021-week_48,AD06VWY8RJ,Fancy,GB,Qality,ManualQ
+2021-week_48,AD08GNEXVK,Bizanga,GB,Yield,DNNY
+2021-week_48,AD008ID098,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08CNF8T8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00E8L8K9,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD097JJPV8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008OSU8W,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08ZDR8ZT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098DR888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000WCI8T,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07YSGVT8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07868NZV,Fancy,GB,Qality,RNNQ
+2021-week_48,AD00868URA,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD00U6AI8H,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD09GXT8LW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08RP7PYJ,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD0976F78T,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088L7F8Z,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09CYFSDL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009KS8XR,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD088W9QVD,Fancy,GB,Qality,DNNQ
+2021-week_48,AD098FW87K,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08Q8FP8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08YWLFCJ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098MV89M,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07KG8K8Y,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07HPZVT8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Q8FC8N,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07L7CCW9,G-mode,GB,Qality,XGBQ
+2021-week_48,AD000TAOWC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09FKNCCM,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07JM8W8J,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0008Y88X,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088N8ZQX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08N8P8AM,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD09CDCP8P,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD006NU9GA,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD077KXY78,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07FJ6X6R,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD008R6Y8F,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00OCKZT8,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD086CVN7D,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07CF8XTN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08KS886D,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08KJ88WN,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07QQG9LG,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07M98KCQ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD098KDK9N,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD007ADIYA,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD0996YLQQ,iDreamsky Technology,GB,Yield,ManualQ
+2021-week_48,AD07JPT6W,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08K8V6W8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09H6YCZK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0987MP8L,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07ZRNWXK,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD000NZKHK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0068XKUE,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08KXIEOT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0888H8KC,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08Z7WTTH,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00TR7H8I,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08LQS078,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD098CKG8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08X8GGKL,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00UC7LZD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008SCI8I,Fancy,GB,Qality,XGBQ
+2021-week_48,AD098WD7CV,Bizanga,GB,Yield,RNNY
+2021-week_48,AD0897FFQS,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07T8F8CQ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD080NK7UT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00CZ6887,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07K89WSP,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07V8ZWP8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00N98ZSY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0087X9QU,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08CLXHSR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098HZLVL,Search Million Culture,GB,Yield,UserPopY
+2021-week_48,AD07MFV8RD,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07ZNQY87,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD06XT8TNP,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD008QFI99,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008QQTPS,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD00MNV8E0,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD08XPH7JK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000PY8T8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098FLNDN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N88IFS,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD087JSXCT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000NJUM8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000NJUM8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD000NJUM8,Allthetopbananas.com,GB,Qality,DNNQ
+2021-week_48,AD08M0WXK6,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07K6WFJH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00GHR78Q,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09FJXZ8Y,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08F8NV8T,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0080GW8Q,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD08X8MGG8,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD008E888D,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07JCZLF8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD087RFUVY,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07Q8VGQV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Q8SSNZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08XVVPXX,iDreamsky Technology,GB,Qality,ManualY
+2021-week_48,AD08XVVPXX,iDreamsky Technology,GB,Qality,ManualY
+2021-week_48,AD08XVVPXX,iDreamsky Technology,GB,Qality,ManualY
+2021-week_48,AD07RFPH8R,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08JCLCLZ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07JD6VHX,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078FYQQ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00VK6MU6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00VV8Q88,Fancy,GB,Qality,RNNQ
+2021-week_48,AD098QRLX8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078JDWZM,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08P8THLR,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD008CC89N,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD087JHDSG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD078JJ868,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD078HGH7P,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008SLLJA,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07C996MJ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07HJD8TD,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08LY7NME,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00J6CIHW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08SWJFXN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008QFFWS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098Y78M6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07D8LJWX,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00HVHTZ6,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07TSQ7H8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07H88WXL,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD07H88WXL,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD06XG8Y86,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD08JM7DCN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0999LDC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07DXNLGG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088CVQ9T,Fancy,GB,Qality,DNNQ
+2021-week_48,AD06WV88H8,G-mode,GB,Qality,XGBQ
+2021-week_48,AD000PH88U,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07XZ8DM8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08JX87W8,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD00UJZRO8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08L9H89J,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00VYAWN8,Extreme DA,GB,Qality,DNNQ
+2021-week_48,AD08LZ78MA,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07SHL7ZP,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0779GTKH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08E8IUD0,Fancy,GB,Qality,DNNQ
+2021-week_48,AD000NRVWA,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD089NMR7Y,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0878Z8XY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08FJGCDX,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07HDF8JQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD079RVFWH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0006UF6M,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09CYW986,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00PASK8U,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD078KPX9L,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088RNVGG,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD087YSXD8,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08DNT6Y8,Modanisa,GB,Qality,UserPopQ
+2021-week_48,AD097R6F8R,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07YN8GM7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07QPV9NT,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD088WYKJH,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07JZHGC8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07P88QH7,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008TL7EA,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD087NNQ8P,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD0778M78C,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00HH9QI8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00AYXV8W,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08MY87Q9,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088SY8V8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08QZJTHF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008AR870,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008USE0J,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07L9RZWY,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD09C9LGGD,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08Y8VFKX,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07HJ8888,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07NDYJ6S,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07WV8VCT,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088DDWGV,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08LVW8YT,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD078NGRTF,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07RMXTCX,Modanisa,GB,Qality,RNNQ
+2021-week_48,AD008RPMHE,Extreme DA,GB,Qality,DNNQ
+2021-week_48,AD0888SYKS,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD098DTQ9X,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD097T8HKX,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08TJTCCV,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08TJTCCV,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08TJTCCV,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08TJTCCV,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD000T8TDT,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD0080HLU8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07F8888X,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00GW88NG,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008PIJ7M,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD08C7HR8W,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08LL8DQ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LXP6TX,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00FQ0M08,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098LVNLQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008FO8HU,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008V06RI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08FL8X8R,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD078L88RK,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0088F8DM,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD099KSLSX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD007F8TU8,Fancy,GB,Qality,ManualQ
+2021-week_48,AD088VLVST,Fancy,GB,Qality,RNNQ
+2021-week_48,AD00T8NMNZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08NCZ8PM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0787MMGK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0787MMGK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009LGTY8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD00TZT6GQ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00V8CM89,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD08L8ZLQV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00MA8RMI,VarVee,GB,Yield,DNNY
+2021-week_48,AD08D7CW86,Fancy,GB,Qality,RNNQ
+2021-week_48,AD09GNSTNR,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD08N8V7M8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008QN8A8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07P86RZ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07P86RZ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07P8PW7K,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00F88ELP,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD076PZ888,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07XQY97Z,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD09H8GH8M,Fancy,GB,Qality,DNNQ
+2021-week_48,AD077PQYZ8,Bizanga,GB,Yield,DNNY
+2021-week_48,AD09GXZ9W6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09FDQWCT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088QXRNC,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07D88Q8P,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08YTV9DP,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD006DY8KU,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078VG8X8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N8S87F,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD00VWM7VS,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD008JHWYV,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08MYYPKM,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00NON888,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD08Z78QL8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00FQELFD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07T8DCL7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09F9YPV7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD06XRVTZ8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078RPMGT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08MRVUOA,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08M8H8C8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD097QDL88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088ZM888,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07DRP69S,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07DRP69S,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07DRP69S,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD06Y88WJ6,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD078R6J8F,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08SC9KD8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD076C9778,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD078W8D8K,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08Y6V8CL,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD07DCRW87,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07V8SWS8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08CGH8FT,VarVee,GB,Yield,RuleBasedY
+2021-week_48,AD09C8VX8M,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08L8JHPR,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD088WILYM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08PH8RY,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD000SHV7P,Extreme DA,GB,Yield,DNNY
+2021-week_48,AD07G8PV66,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD0888W688,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08C88YXG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08PVPNWJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD098KSQK8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07RPZ88K,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD086IP8GR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD087DH9GT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08YD8CRS,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07W8DX9M,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07TXR89Y,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD0080C6KC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD078VQX88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088FGXVR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08T8RT8W,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08WG6DXL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08XXFRP8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07XYY8XD,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00E8MRVU,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08XC88TY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07GT8RH8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08MY8TS0,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD06XCYHQM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD88987080,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD008E8D88,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00KE8I8A,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD087CWPTQ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07FRMTJW,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD0888T88P,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD089QAU9P,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD06XWWK8S,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08CRFHF8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD000FPTEN,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08TZV8PF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08Q7G88Z,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD07FYKYWD,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07NXVHHN,Bizanga,GB,Yield,DNNY
+2021-week_48,AD088WJSWY,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07V8CCZT,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD00GIF7S8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0080KO8R,Search Million Culture,GB,Yield,UserPopY
+2021-week_48,AD0968L8LT,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00R8H8FJ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD09C6JNFT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08D8EO8H,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08SR8LML,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0089N88U,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07QXYKN7,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07QXYKN7,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07TY8788,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08898878,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD096M7CLK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0789FWP8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD006EHZD0,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD087JHHO8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00WGA8TX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00F9988I,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD086XCKSG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07D7FPLD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08F8N8CF,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07L8H8VK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08FR8HYM,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD008MZV8O,Fancy,GB,Qality,ManualQ
+2021-week_48,AD098XJLXW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD080TN6VN,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07NWX8WY,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07K8Y886,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000ET7F8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07WL7C8K,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07JP88N8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008QXF80,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08KH7LK8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098P9PMD,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0088NFRW,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08TVKNXW,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00O88ISW,Search Million Culture,GB,Yield,UserPopY
+2021-week_48,AD07MNTW6K,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08896VK8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008X9SS8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078CRGTQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06XNJLSQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08T8ZK89,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07S8VQ8J,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08GD9MNZ,iDreamsky Technology,GB,Qality,ManualQ
+2021-week_48,AD00HWZGI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00DKXTCM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08PXCZT8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD0989R8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09HV8F8F,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD097RS8QG,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD000AUVL8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08MZ88J8,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD06XFWVRX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000FJ9AG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00GJ8GPU,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07H8L8H8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07KFXGHL,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD0008AS8O,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078QRTKV,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD099PVL88,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD078W6KTF,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD008UKO8U,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008LUQUJ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD008I8UDL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0086NT86,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD097HMG8J,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008NIZ8V,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00CIP8OK,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0988S8TV,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07SZJ86R,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06WVCR78,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00HGEDL6,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0088GWCW,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD087ZJTST,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088M68KZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07DH8NF8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0868P8K8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0878S7TL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08YN6PT7,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08HRH87T,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD089GQVHW,Search Million Culture,GB,Qality,RuleBased
+2021-week_48,AD07MM9QHR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07DV88ZV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00688788,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD00YV6IV8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08HQHRFH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08J8X8HK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088V8JDR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07H8GRK7,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD09JF7WWQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00T88V9E,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07MSGVSY,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD008OMS8E,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098J8Z98,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD088ZKJFM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088FSXZD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078MZ8N8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07LDWV88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00EXP8MA,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD00I7P8MF,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD088Z898P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD076L8YRJ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00IK9ZDE,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07X8L8C8,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0987TJH8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SCHXJC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008GT8I8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07PMLKRW,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07XF98T7,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD008WZDW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Y8988J,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07D7D7H8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0988DSV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07M6PRNH,Bizanga,GB,Yield,DNNY
+2021-week_48,AD07XWCKD7,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07YSH7Y8,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00DHELW7,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088K8888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00AMZSOS,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0887PRRJ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098K88DK,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00CWEITX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0878SYR9,Fancy,GB,Qality,DNNQ
+2021-week_48,AD007ZCHAW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08L8NS78,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07HKC8XZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08GOKF8A,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008RYWGQ,Fancy,GB,Qality,XGBQ
+2021-week_48,AD07L7LDWX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008U80F9,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000I0FGA,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07H8KM98,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0088M66P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008VZ8VH,Fancy,GB,Qality,XGBQ
+2021-week_48,AD079P8DXP,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0008HR80,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008SELG8,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD0788D7XF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09D88GFN,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD0788878X,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0887JDJ6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07S8R8KK,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00JIUTS8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07MJT9X,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08MYZSLM,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07S8PG8L,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08NCVL8C,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07CR8XND,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08HGC697,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0778W66R,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD08N8ZMK8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N68O8S,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07WJ8HTR,Fancy,GB,Qality,RNNQ
+2021-week_48,AD078GWWN6,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00KVC8TO,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08XK78MQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07RW9DZ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00088608,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD008LK8RC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08P86DFF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08P86DFF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08P86DFF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD006VDFTQ,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08F88MVG,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD0888JW89,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07PKCLP,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD076Q8CN6,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD009LGTGF,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07F8888T,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0988NQZ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00SYR7K8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08CXMS6T,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0777Q8K8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07Q8P9QV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000VTVD6,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088H9888,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD086KE89F,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00PIRQEO,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD088RGLYX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086D8SJQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08W88S8W,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08VQ6R7W,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09C88VJ8,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD07FP8VX,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD008K88OZ,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD097L68JG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD078W888F,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088TXPW8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07XDLGRF,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07R89JK9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07XS98LF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08SWPD8J,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008SGFN0,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08KTP8QQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0788WKW8,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD0989X8H8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07GNRSGQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0988LW8M,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07S8W8DZ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09DSZ9RL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000PZA8K,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0878HRW8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0788K8X8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD089FC888,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0888X98K,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008N7SM8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD88808088,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD08KSTDLV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N8FR8K,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07DPL8DF,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD000K7AOS,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07QLWZXZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09GYK9ZV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00AYXV8W,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07YXX7L,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LHK7GM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD079T86P8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078W9PJC,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD007VMER6,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08TQPNLL,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088DYJF8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD06XZMYPN,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098DL8K6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD076QDJ8Y,Fancy,GB,Qality,XGBQ
+2021-week_48,AD88088898,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD06XPCZQC,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07PXGZTK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08GZH8NY,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088DPY87,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD080VH67Z,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD099NYPR8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0988LF8K,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08KS8H66,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD088907QL,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08Z6RTWV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00H7WWMM,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08HM9TX8,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD008EJFLE,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD00IHY0S8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD087NNPXZ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08D6FM8K,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00M7WHF6,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD008RYUCQ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00EYAFF8,VarVee,GB,Yield,DNNY
+2021-week_48,AD086DEGFW,Fancy,GB,Qality,ManualQ
+2021-week_48,AD000L9C88,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00CFV88T,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD06XDDZPR,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00ENIP8K,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08N8S7RS,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07K8NQ8F,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD088878V8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07G78HW6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0800PANU,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08ZNV7WC,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD076YZMQC,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07QXZQQ8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08HV8GCK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00A88JLN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07YRRF8G,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LH8Q8D,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00HRM8LY,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088YTKC8,iDreamsky Technology,GB,Yield,ManualY
+2021-week_48,AD006R8OKQ,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD07D6LQ7Y,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07QRVWZS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08AUQWTP,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD079888XT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08VPRWQL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09GNYMYC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SQ88FD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Y8VWYM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09F87H88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00HFQ00G,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD00PJ8YOG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008Z886M,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008FN0PA,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08K7C7HP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08SZFMPP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08ZKPDTH,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08L87DQP,Fancy,GB,Qality,XGBQ
+2021-week_48,AD00XIPFAP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD077GWN8G,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00HY7LV6,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08N6TFDV,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD088LV8L8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098TM8VS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078DXR8L,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD06XT8G6G,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0788FZJ6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09CL6QFF,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD07J8TRX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07M7DX6T,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD000I0GHI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD87888988,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD09869868,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000J69O8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07HC8XMN,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08FQMVFW,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08LVY88N,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00YCQHY6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098JTKVW,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07GYRDKR,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08996880,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07FFFDV8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08XTNQQN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088LHLFW,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD00MWW8NC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD078LJX8T,Bizanga,GB,Yield,RNNY
+2021-week_48,AD0886PQWY,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00U898OZ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07RSR6YK,Fancy,GB,Qality,ManualQ
+2021-week_48,AD0089W8ER,Bizanga,GB,Yield,RNNY
+2021-week_48,AD096LS8KP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088J8R8G,G-mode,GB,Qality,ManualY
+2021-week_48,AD08S6YGQK,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08C8QHDN,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08M0VU0X,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098Z8P6C,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00HR89CD,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD088DM8A,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD08R8ZS99,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09NL9TG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09NL9TG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07S8WV7R,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00880C7S,Fancy,GB,Qality,RNNQ
+2021-week_48,AD008TJ9ZY,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08HRHXDU,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00E0IGJR,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08ENO888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LEWXOE,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD09F999KT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08HQYGPF,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD89886887,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07GZM6QC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08N7AGFV,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0088M66Q,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD08XWJGYS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07K6FWY7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08WHKXNF,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD099ZZLXY,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08K79ZP8,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD000F8AVP,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07NWWLP8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0988QWJY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07F899GL,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07L8SL8Z,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0788FPJ8,Bizanga,GB,Yield,UserPopY
+2021-week_48,AD088XD8JS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08XC8Y7P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008YLO8S,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08LQVVJ7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LQVVJ7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00UJTMEK,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0088PKXS,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD088X986V,Fancy,GB,Qality,RNNQ
+2021-week_48,AD0888C8G8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00MV0UAD,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08GCFRSN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07JFNVF8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08D8M88N,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07987YRS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD009GDY8G,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07Q8F88S,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD07PY888L,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00GTGHGT,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD098DMRT7,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07TVR8X6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008VCTJG,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08N8DGM9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08G8WTHD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07GKS7R8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07L88D7C,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08G888SX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08C8JHG6,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07XNKHRH,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07X868MR,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088YTXR6,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD07S8GCDG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08MTWF88,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD008898ZD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088QCJPJ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07ZMWHHX,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0886LJWL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Q8N88Y,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0088JX6Q,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08V8VL8Y,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07CYXWL9,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD07HPFW8F,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD0887NCC6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008GSSDA,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00NXVPMU,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD00UYFZGU,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD079LFDH6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07PT6CLF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00N8VJNU,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00I096UP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07Z8C8ZM,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07WJNCTJ,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD07WP8PSY,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008V06RI,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078888WQ,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07H8887C,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09NL9TG,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD09JVL86Y,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD098QTJ88,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00E8DAEX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08HLXY8M,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00WIQZY0,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088IADXR,Bizanga,GB,Yield,DNNY
+2021-week_48,AD00URRP8Q,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09H8S88X,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07FFLNK,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD08I888EF,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00VUO0VT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08T9887G,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09887X8P,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07CS8XKS,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD00Y89A9Q,Fancy,GB,Qality,RNNQ
+2021-week_48,AD098N8QVF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008LHCOI,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08DXYPCP,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00888788,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08DAFX8T,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008ITDEM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07P8TWFY,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008UH8A8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08GLT8ZL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0978KWVC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0888T6F8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07688PJT,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088JXRPT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098CMKN8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086R8ZKD,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08X8TDS9,Fancy,GB,Qality,XGBQ
+2021-week_48,AD008H6N7T,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08V8RWQC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08MFMC88,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07W8GHFJ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09FSJQ8R,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD079HXPRT,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07XQ8TDK,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088P8P8S,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD00VX7VPS,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00IFC8K8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088G8XFQ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07Z8PXK7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098SPLKF,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD09FJQS9R,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00F8LXSX,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07NPRZYV,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD06Y88T6S,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD088W98KK,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08IA8SU0,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD099KW8ZL,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09688GTL,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008UALNX,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08ZHJKZX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07888G9C,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008808G0,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07PYGRZX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08Y8KFJ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08DT08M0,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD086S8SJQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0988G8LH,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07N8T9QL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078R87NW,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD098PHLZ8,Crescendo Networks,GB,Qality,XGBQ
+2021-week_48,AD00SAYCXW,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08XZQ888,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08MSZHQD,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07CNRDW7,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD00AW0V98,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07RQH8PT,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD088K888J,Fancy,GB,Qality,XGBQ
+2021-week_48,AD078D8L6K,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD07VPX878,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08XTPKDJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008JAKNH,Fancy,GB,Qality,DNNQ
+2021-week_48,AD06W8JQR9,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008TMVU6,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08F7S8WJ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00CO00Y8,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09C6LX8C,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00ASL88Z,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098X8Z78,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07D8FHQX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0888DNCL,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07X8D8MC,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07VK8XX8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08VHRWF8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08F766PQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07TD888P,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD089QTVZG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD076F8Y67,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088YKKVH,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0069RSCA,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00888WOC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07PKRFQ8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD098FH8FV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00NE8KY8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD079CK8NZ,Fancy,GB,Qality,XGBQ
+2021-week_48,AD07WRYJ8F,Mission Street Manufacturing,GB,Qality,XGBQ
+2021-week_48,AD07889VTL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07VM8WJQ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD078V8888,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD06XP897J,iDreamsky Technology,GB,Qality,UserPopQ
+2021-week_48,AD08FN8PN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098JGVLX,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD088P8TP9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08WPT698,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07HNQXM8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08DG78SF,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD07YW8DQD,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD08K86688,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00VWM7D9,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07VHLM88,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08LR8G87,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008QKKAU,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078R8LPS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07PP8X8M,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08ND8F8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09L88Q8X,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD000GFEYU,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD08KRLGQO,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07FDZ7Y8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07GNMNK8,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD008HYDK8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0788Q8DT,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00VC88WQ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD000NPF8J,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07GZSDHS,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD07G88989,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08W9KW8P,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD0788DCGG,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00MP8GC8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08878HJV,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD078TH8D7,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD09JYLGLQ,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08PD7C8Q,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00M88869,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088688WT,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008XEFOP,Fancy,GB,Qality,DNNQ
+2021-week_48,AD097MC8NS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07PL9GZZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00J88DTZ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD078VD8P7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098Z8GKF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0787PL8P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00AOC8EI,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD087Q88M8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00GO8JLL,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07F86F8P,LocalVox Media,GB,Yield,RuleBasedY
+2021-week_48,AD077VX8Q8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07C8ZNYC,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0868PL88,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08F8ND89,Bizanga,GB,Yield,ManualQ
+2021-week_48,AD07H8S8J8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07WKFWQZ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07XLYWK8,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08JH8HVF,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD08EU8KEU,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078788JZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07CL8RHX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0788KNVL,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07FFPQHQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098JZ8LW,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07VGTGS9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0888W88H,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08F88FDK,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08GMA8EA,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07FNT8CX,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD089FJISH,VarVee,GB,Yield,DNNY
+2021-week_48,AD08LCHCRQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086RAAUE,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07GD8HVQ,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD098DCSG8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08LXLU0F,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00JEHF88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00UAOJAG,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07ZCNQ88,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08N8JVTO,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098MWC8X,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008YO8OF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08M0MV0C,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08S88S8S,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008KRN8Y,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00OD0J8R,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008ER0DO,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08CEOGQY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD099J8888,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07W6ZF8W,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088XG8HK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08N8A8MY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07MQWVV8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07Q6ZKR8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD06XK8VT9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08YYH8S8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07Z8LRRR,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08KT0U8Q,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08DVW9A9,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD079W8KKD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08R9SPL8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008ZE88D,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD08FMG876,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD076L8PY6,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07RSSTZQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08XWG8TJ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD78679886,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07V6GHYS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088NH7C8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00M8VZPK,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD0888DT8R,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07DQTLD8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09GTY8SM,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07GX6TZK,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08F68C8W,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD096S8NYV,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08TMZQDW,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08C88TM9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Z87T6Q,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07WC9PV6,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD077YTKJL,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008ZYWPK,Fancy,GB,Qality,RNNQ
+2021-week_48,AD098CPX8N,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Z8DQXM,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088N7KPZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09GCT86,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07G78M8R,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07YSSFFD,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08K8NLWK,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07MDXT87,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Z8H9CV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08IKE9XP,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00GOT06D,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008K8QFD,Fancy,GB,Qality,RNNQ
+2021-week_48,AD06WVGXQC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088FCSFF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008RZ8VJ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07CNX888,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08WJ89CL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00G8GEIP,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000OLE8S,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07DVM9F8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08FJ8D68,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD06Y8K8QS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08M0MSUD,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD088Z86PY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Z988YW,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD089MT88Y,Fancy,GB,Qality,ManualQ
+2021-week_48,AD07Y888L8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08XXRVS8,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD0068WGN9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07PRW8FR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07N7DXM9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07998T8X,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008TNITJ,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008TNITJ,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008DS87S,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06XFR78K,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07JL8W8K,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD00MA8RMI,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07FXHM8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07R97DV7,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0798S98Q,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09D7VVVX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00FHSSWF,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07QLY8F8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08Y8NQHS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08Y8D86Z,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08DSYQU8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08M8CPLN,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08X7H8F8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08GG8VJQ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD09JGCJCV,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07Z6Z887,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD0888LW68,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08S8FMVV,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD08HLM8LD,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08E0FRAK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00KYTYRH,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD098HVNSK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086PXDQL,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08JWW8TN,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00GVDTH8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09GW6KJ8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00J08TEU,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD09CQ868L,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08DG8L8G,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06XXG98K,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00H8NPD8,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD0998L68G,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07CYZKH7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD087QCX88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09FFVKQ9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078Z8F8W,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00QGY69L,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07YP7LQ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07JX6WD9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08PTZQNX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07NDM7GQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00W8EWCF,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD098Q77M,Modanisa,GB,Qality,DNNQ
+2021-week_48,AD0778M88C,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078M9MMJ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008E6IIK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD079X8YTZ,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD008V9L9S,VarVee,GB,Yield,DNNY
+2021-week_48,AD08C8897Q,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0988H866,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD0888GRNN,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07HFGKCT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008I9MX8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07PMVR8C,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00AWP7YF,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD08T7JTMC,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07G8HZVY,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD088HZZPV,VarVee,GB,Yield,DNNY
+2021-week_48,AD07WJX8GY,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088QMR8Z,Fancy,GB,Qality,DNNQ
+2021-week_48,AD09MQTVK7,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08SJXG8C,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07QM9KPJ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD06XMYDX6,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08DG8SY8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07H6YWZD,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD097RGN98,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD088WWM9Y,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD087788PN,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008MZYJE,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00ZCSM8K,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08988798,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088NPVHQ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD000UPMQM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08FYT8Y8,Fancy,GB,Qality,XGBQ
+2021-week_48,AD080DRJZ9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD009ASI0M,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD006EHWDE,VarVee,GB,Yield,DNNY
+2021-week_48,AD00KZ88JP,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08N78GWV,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00ASKV7F,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD088FGCGL,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008OXDDT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07V8MH8W,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08JCTQPX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00A8C86Y,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07G7WCJV,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08MZ86HS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08M88ZK8,Fancy,GB,Qality,ManualQ
+2021-week_48,AD06XK8DR8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08HZ8SJV,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD078V87G8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08N8VCY7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08R8RZTX,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD006FHCOE,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078HV8QW,Fancy,GB,Qality,RNNQ
+2021-week_48,AD076JHXNV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008HFL8A,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08FT8TMG,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD007ZYR9S,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00FXSU88,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00KCSAQG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08HFWD8Y,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08FHZXYR,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD00JF8JGM,Fancy,GB,Qality,UserPopQ
+2021-week_48,AD08LZL8JI,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD007808AJ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD078X9L88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08M9N88T,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08LNW8XW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08868Q8T,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07VST9VY,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008RN8I6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N8TCZI,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07PCRDJL,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07SYJ88G,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07TYVWTH,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD06XCDJ6N,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09GV8N99,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD078RCKV8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07J8YNXX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088GSLVJ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD00EYND8X,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD088CZW8X,Search Million Culture,GB,Qality,ManualY
+2021-week_48,AD00PIH8DQ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07YXZVFD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N6RKC9,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD00II9ICN,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008IIED6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07MR8TWS,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08VHLC88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07798ZQH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07F86F69,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008QH98N,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00WEOOFV,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008O8EG8,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08ASEDW8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08N6XG8X,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08DC8S8K,Fancy,GB,Qality,XGBQ
+2021-week_48,AD00J88E68,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0088WP8Q,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD0080PACF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00QYKHMT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00LEMK8P,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088HDKG8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00OJ9WEO,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08J86P8S,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0088ODN8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07H8YFP8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00A76IZ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098JHZFD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008ILQQ0,Fancy,GB,Qality,RNNQ
+2021-week_48,AD008EKFAH,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD0098OYMO,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08KYQXXZ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08H8KSVZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00AKDU88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08HQRTWH,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0898F8NZ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD089DLZV8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07JTKDN8,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08XMPPH8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0088AGW0,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD07KWX9PZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07MK88HC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088F9XQT,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00DQUQYU,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD087XNFUI,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07X7MWC8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07TJR7WX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0968RG8Y,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD099P88X7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078J6ZRR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08XZ6RNJ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078878Z8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0878TZJ8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07XWX9FZ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07HNLZ8Y,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08SL8RMT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088ZKQ8G,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07L89RDJ,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07FP8X88,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08IPEVXU,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD006JO08G,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07R6ZC7F,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07SJRX88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0888ZNCT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08TRMFZV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N7IW8U,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00FXNAD6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0878WTTD,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD088MKPPN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N8P9AD,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07KJKQPX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078XC8VS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08GH8F87,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08F8DHM6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07D8QGMS,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08886DR9,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD078C88CM,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07MKL8ZT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088GLJ78,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00URRE8O,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0088ACMZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07FYK88S,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07WKFMFY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0008P0HU,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07YLM8K8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078KZ68L,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088C898T,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08DT78R8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00C68LD8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07NWRKP9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078JGMYF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08DXGWV8,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00MULOV8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD078ZLW8L,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD086KXCKK,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD088HHQVF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078SVX9S,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00V6I6LF,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD007878I7,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07S9X888,Fancy,GB,Qality,RNNQ
+2021-week_48,AD008SQGJC,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD077W9L6R,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD09CLLNHD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00LJOQ8U,Fancy,GB,Qality,RNNQ
+2021-week_48,AD008GATLK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098TNHTW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09HHKT8C,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08FPDWZ8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08ZLZCSF,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0008IXA9,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07C8KXS6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00LUTI8D,aPriori Technologies,GB,Qality,DNNQ
+2021-week_48,AD00TX8J8T,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00P0XL8X,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD088NRDT7,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07XF78TP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088FYQYA,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0878MWKY,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00Y7RK8A,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000G08LW,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07VS8MYR,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088T8QI,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008988IQ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08YJZJ9P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078J8NV8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0987KG7P,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08HS8U9E,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08T6869X,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09FLFH7D,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088ZW8LP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09DPZ8QL,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07WRJT9K,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008I8UOG,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD008CHFSF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0878DFSD,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD00IHZJ88,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07DJ8H98,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000I6PL8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07NGKZSW,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07GH8887,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD09GRL88K,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07R8VLDH,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08CXR8CF,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0988QWZP,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD09LSQJDX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07HP8TN8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088X8JZK,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008XLKQ8,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD076YYK88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09F8ZDDQ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0888QGCJ,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD00CRDCL9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09898P6V,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09PSJTG8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008OVOTR,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078YH7GG,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD008FJJJQ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08JZKQVP,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0008HYYD,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08IPKKIA,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07MWL88T,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00DVG6IK,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08LZ88SM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD007XARWD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008P6YX8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD089WHQ88,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08P8LHNP,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD098GG8TS,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD00N88V8S,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Y8MMKT,Fancy,GB,Qality,XGBQ
+2021-week_48,AD0078S0UA,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08MSDO6L,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08G8XZE8,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD008CVZL7,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00IM8P8G,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08YYGJWM,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07Y8JPYP,Fancy,GB,Qality,RNNQ
+2021-week_48,AD006OM9Y6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088Z8GDD,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD098N8FYT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08RZ7JKN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00S7ZG8Y,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD088KHFC8,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD07T88CK8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD06XKD8Q,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD08W8T8LS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07ZFP8S8,VarVee,GB,Yield,DNNY
+2021-week_48,AD008ELX7Y,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00T00ASM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Z6FGCX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00808YKZ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08986ZF6,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0088UOJ6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07888P88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0768VKT8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07XVS8KJ,Fancy,GB,Qality,RNNQ
+2021-week_48,AD098LQK68,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD078ZLWMQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD007D87A8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00WUM988,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD00LJJGVQ,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088MQWHK,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07Z8ZTYZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07XJLH8L,Fancy,GB,Qality,XGBQ
+2021-week_48,AD086DT78X,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000T90TQ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088DL8SP,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07SC8XVY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07N9PW88,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD0888PDMP,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00EZ0CQ8,aPriori Technologies,GB,Qality,DNNQ
+2021-week_48,AD088ZFPDV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00868CYE,Fancy,GB,Qality,RNNQ
+2021-week_48,AD00I7888S,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07R888F,Fancy,GB,Qality,XGBQ
+2021-week_48,AD000NJUM8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08XNPV7W,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08TM9QPN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09HT6P9S,LocalVox Media,GB,Yield,RuleBasedY
+2021-week_48,AD88888688,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08XPNW7Q,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD0878NZMV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07HCGWMP,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0008S8FW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08T8W7W6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00W8NNH8,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08N08W6J,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08CTYAF8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD000Q88TQ,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00TKAZ8Y,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07H7M8LY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD06XDP89V,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088KL8FS,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD06XQPVSR,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08CNM89G,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD07W8WSDG,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD09HN8W6D,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD07YGMN88,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD088WJXM7,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000LFVFY,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008EJLU8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD00CWJDZS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08M8FHW8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000SQQ8D,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09HL8JM8,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD0080U7GS,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07XC8MH8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD09CDT88Z,Modanisa,GB,Qality,XGBQ
+2021-week_48,AD07SN8YY8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008GPFAJ,Modanisa,GB,Qality,DNNQ
+2021-week_48,AD08GCZ8MH,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088ZD886,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD006XSPF8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD087CZ88R,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09DYH88G,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD08QW98F8,Modanisa,GB,Yield,RuleBasedY
+2021-week_48,AD08HM9SP6,Modanisa,GB,Qality,DNNQ
+2021-week_48,AD00GO9OAW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07MLHWDF,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD008U88ZK,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD076MX9DQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00O88OU6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00JRD7E8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07PV8XHM,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD00R08EO8,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD0098F8OL,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08NF6H8Z,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008QXKFQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09D78S8Q,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00UVMX98,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088TMYCY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07VVFVMR,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD0007QD8G,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00SJX8IN,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07Y8YLFG,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08N8ML80,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD078887GR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08LFGTEI,Bizanga,GB,Yield,XGBY
+2021-week_48,AD09D7SH8X,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08PCS8XW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD007RM8ZH,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008ZJC8G,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09GL888W,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD080ZKOJA,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07S789K7,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07KCG8VD,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00N07NLH,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD078XHDMR,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09H868SX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098DF8MG,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07Y7ZKG8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08M8OOXC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00698A80,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD088KGNY8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08SQHVZR,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD089HMOCX,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08FSVSHC,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD00U8O0R8,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08M68MA8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08Z8G8P8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07JVFG9L,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07QJ8XQW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08F8IQPS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08FFKX88,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD098W7R8Q,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD099DVDSG,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD000A8888,Extreme DA,GB,Qality,XGBQ
+2021-week_48,AD0998Y8WW,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07H6HP87,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09986HPG,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098Q8ZQX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09HY8TCS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008LYXH8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07WF6JX8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD00MMHSJI,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD079GYPX8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD087EOW8X,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0888H8KJ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07KDGQHN,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08S78T8W,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07NZYHYQ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07WCQ78M,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD079M6X8R,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD096LQ88R,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08WWXJXQ,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07ZX8WMY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08HL88XW,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD076HP6TM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00888IQ6,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD098X67N8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008CKWQQ,Crescendo Networks,GB,Qality,RNNQ
+2021-week_48,AD0888Z88V,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0088ZGD8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000WKPIW,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098NRR8L,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD007G8SZC,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0877HKHQ,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00EQ76L8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD078GQ888,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0797PRW8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0768PXQM,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07G8YGG8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD87888888,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD00OTEYAJ,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD078JV8XY,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD086LI8E8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008C8SQC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08E8KJY8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD099R8K7V,G-mode,GB,Qality,XGBQ
+2021-week_48,AD08C8RR8J,Search Million Culture,GB,Qality,ManualY
+2021-week_48,AD08R8K8MQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07WTPSDQ,G-mode,GB,Qality,RNNQ
+2021-week_48,AD088TXMVC,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08FWU6E0,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08GLM689,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07M7WTZ9,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07FMH8NN,iDreamsky Technology,GB,Qality,ManualQ
+2021-week_48,AD08787R8H,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07DRQ88T,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09898878,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD087PVPYZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08Y8NFM6,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000LNG8Z,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07JQM7C8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07TMRQV7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LSVX9G,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00F0LALD,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07C8GWM8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008S8OH8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD009GIKIG,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD0788KVG8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000L88LC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00V7KEZ8,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD089C8X88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08GFDZ88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07SR86KT,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008AQZIA,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00E89U0I,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD086KLFXI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09HN888X,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07Z8NCV8,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08EYKV8U,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00P98N68,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07FQ88MV,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD0077PQGL,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08J6SJFD,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08L8XSYH,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00H78AAM,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088O8H08,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00CXYNV8,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07KMKJJS,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD078MJ6TP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07DV7QXP,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD07Q8886H,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00LGAN8J,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0889CVNR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098C7HQH,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008L78D8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08T8RCSY,Fancy,GB,Qality,DNNQ
+2021-week_48,AD000J88HN,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD000NMPN6,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008GNW0W,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00788OH8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD007HYE8P,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD078888T8,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0788J8HM,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD078WT8VC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07DZT8TQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008J9GHE,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088TMSWC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008XMXWX,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08EWVIQC,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07ZJY8S,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07F8XD88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00CU9X8K,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD0886TTHY,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD0988XKZK,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07T8SCHM,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08Z7DRW8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008NF8YZ,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08LL8XKS,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08ETJD79,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD00ZI6CFR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08GZGH88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00NE8M88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008T89P8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07X8FH8T,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088MMKHZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000V808U,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0888VOJE,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD076689PQ,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD09J88TZ9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07V88Q87,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0778L8HN,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08X8QQ8J,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07988CPS,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08RQFNNG,VarVee,GB,Yield,DNNY
+2021-week_48,AD008ZZWRW,aPriori Technologies,GB,Qality,RNNQ
+2021-week_48,AD098N8WYP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0988V7D8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07JMDZDM,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00ATN88S,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088CV68D,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD86877098,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08J8F869,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088ZJZ8L,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08SMLXF8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00O80TDZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0078MF8P,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD00887A7F,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008ENZTI,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08D8KOTP,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00KR8VJY,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07TFGMKV,Modanisa,GB,Qality,UserPopQ
+2021-week_48,AD0098D8IL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07CGR8S8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07RJRJVR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08P8K8SX,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08888IFG,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00NU8OE0,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08T68K8V,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD06XFN8N8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00CW9TIL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09FK86Q6,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08N0Y8D8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0888H78Q,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08HJQKMN,Allthetopbananas.com,GB,Qality,DNNQ
+2021-week_48,AD08L88MPP,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD098VXR8V,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD000TG880,Fancy,GB,Qality,XGBQ
+2021-week_48,AD009GDY9D,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07KMDV8Y,aPriori Technologies,GB,Qality,RNNQ
+2021-week_48,AD00XJC88N,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0788C88T,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00O88VJG,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08KS87MD,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD088VVZNY,Fry Multimedia,GB,Qality,UserPopQ
+2021-week_48,AD08C8P0ZV,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078X9G9N,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD0987G98J,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00877ZM9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08N6Z78S,Fancy,GB,Qality,ManualQ
+2021-week_48,AD08L07888,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088S888W,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD078FSMF7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07JCM8GG,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08M88Z9V,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00D6E66E,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00D6E66E,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00OW088S,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00CMM8K9,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07V88N6M,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008888KQ,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07VSZHVT,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07X8YN87,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08HQL8KK,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09F8WNDY,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088QAFZ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0888WV8C,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098TQ8KY,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08J897CC,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08DC8QWW,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07G88G88,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD0787Q8HR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078FTXCX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078PGGCQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098DMP88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08888789,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD078ZN8TX,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08P8Y8MY,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08P8GYNK,iDreamsky Technology,GB,Yield,RNNY
+2021-week_48,AD09JP7SCM,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08FDN88H,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00HX98ON,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08FC68WQ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD06Y88CPG,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07Z8Y8VK,MoJoe Brewing Company,GB,Yield,RuleBasedY
+2021-week_48,AD07M988GN,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08WWF8LZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08CP88AU,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00LY09E9,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08GR86X9,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08CD8KPR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD078X8898,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008SQIJV,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088D98Z8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08SK8NW9,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08AP9SS8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07ZZW7QC,iDreamsky Technology,GB,Qality,ManualY
+2021-week_48,AD08N7S0IP,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08GAY8P6,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD078K8LX6,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD06Y68P88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07ND8SFH,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08NHZL8F,iDreamsky Technology,GB,Qality,XGBQ
+2021-week_48,AD00X08Y80,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08NT7LS,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07YZ8668,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08P8TS88,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08NHMQ8G,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD07QC8SPQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00HR8G0L,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD07QXV6N8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07LGNY8V,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0088VSMP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07Y86TGR,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008S88GS,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD08N6R8D8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09886DC6,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD00D99W89,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD00WMK68D,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07J89688,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07LCYY8S,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD00SVR8ZU,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0088XOJC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0088XOJC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD096X8FY8,Modanisa,GB,Qality,DNNQ
+2021-week_48,AD09888888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0777N8JJ,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD06XRWRKC,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD000NM8WA,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09GGYRKC,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08YYLX8V,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08TGZK8Y,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08G88YZ8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD086WHC88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000WDXJ6,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0968K6VC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07VV8Z88,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08MZHZV8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08DL98PQ,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD078H8FJX,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078VNCJ6,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD087VLP8R,Bizanga,GB,Yield,DNNY
+2021-week_48,AD088MCJX,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD000NMAP8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD008DQ78O,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD098Y8LLW,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08TRN8J7,Fry Multimedia,GB,Qality,XGBQ
+2021-week_48,AD008DPDNL,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD008FEGYC,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08K8CPZX,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08F8ZFWQ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD098CC7XJ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0088YLJM,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD08MXJ96D,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086GX8T8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07DWZCSP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0888K8DP,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08K9OHLI,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07FRR8SC,Search Million Culture,GB,Yield,RuleBasedY
+2021-week_48,AD07XDJTL8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00CWR7HF,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08N9OI88,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD07DZZVDM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD089SY9T6,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD08LWXF7U,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD098D7KK8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098889WP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08RDV8QQ,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD008TNTE7,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD088QG8V9,aPriori Technologies,GB,Qality,DNNQ
+2021-week_48,AD078P8WN7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD098DJ87K,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07YJX8HP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD007L8H7X,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08H87S8W,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD07YL88JW,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08MF8FX8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07Q68HC8,Bizanga,GB,Yield,UserPopY
+2021-week_48,AD07GZSDHS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08XVWZM9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD079QKRWP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07K8K98V,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07HFPYT8,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD0787VKX8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00O7P6CE,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08CR8TSZ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00CHOG9N,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LZCHK8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08DWN0EG,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08XGJYQZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07F8L6R8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD008VREMT,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD097878TF,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00889CDA,Fancy,GB,Qality,RNNQ
+2021-week_48,AD08MFQS88,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD08GJ6IG8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD088JNTK8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00TSROEM,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD086887S8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD078JMQTZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08HCPD8K,MoJoe Brewing Company,GB,Yield,XGBY
+2021-week_48,AD078WXJL7,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00CAT88L,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07Q88FD8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD087QCXJM,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD09CDV8J8,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07R88N6V,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08ZYJKQV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08P68SDQ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08PX76SF,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07C88DJQ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07PV8H8G,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008DSKWS,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD08CZKJJ6,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD00WPVEHN,Fancy,GB,Qality,DNNQ
+2021-week_48,AD06XHK8LV,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008A8J0Q,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD007O8ZXV,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD008ROUDS,Crescendo Networks,GB,Qality,XGBQ
+2021-week_48,AD0888KGJD,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD07DXZZN8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD09DKR88R,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08JTDQ88,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD000SHV76,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07TWC8F8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086LJTJ8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08W8MDF9,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD008VE868,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0788WY8S,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08DQZC8T,Modanisa,GB,Qality,XGBQ
+2021-week_48,AD00ET8LTG,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD0798PDRL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08W8DK8N,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00QF88Z0,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07KG8888,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD008VE7M8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08GY99LX,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD07ZH677S,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD07Q6YSGF,Fancy,GB,Qality,DNNQ
+2021-week_48,AD088QR688,Fancy,GB,Qality,DNNQ
+2021-week_48,AD08Q68WF8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00ZUI88N,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD07JJP8F8,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD0998JS78,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088CYRVS,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08GDH9R8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD008AGLNG,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008GAXM8,Fancy,GB,Qality,XGBQ
+2021-week_48,AD00KINHR8,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD09988TXL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08T89KGY,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00GJOHJY,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD078QK96,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD00V8DQYO,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00FQ0LK8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078YVSY8,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07MTFQYM,Search Million Culture,GB,Qality,UserPopQ
+2021-week_48,AD08MVT88K,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08ACIIER,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD00INW8KE,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08L87C8Y,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD099M88J8,Bizanga,GB,Yield,DNNY
+2021-week_48,AD078M89LM,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08M8KRTT,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098HQ8S8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD008XE88Q,Fancy,GB,Qality,DNNQ
+2021-week_48,AD0089TWRS,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098LM87P,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD086AGTKO,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD088878VH,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD08JVHK99,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07FQ888L,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00FLWDKS,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD087PJ97R,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD08N7L88T,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0888KWH9,aPriori Technologies,GB,Qality,RNNQ
+2021-week_48,AD08GTKQ8R,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD008U7J6N,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088ZH967,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD07VR8ZSC,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD0080OXKU,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07ZH677S,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0088L98H,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07DW8FQ6,Bizanga,GB,Yield,UserPopY
+2021-week_48,AD07RCGPMP,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07YGM8RD,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD098CYM88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD00SFXTEZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07K89K9J,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD087RJ88F,RelayFoods,GB,Qality,UserPopQ
+2021-week_48,AD08ZL86Y8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD000OEJAR,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD078P88PP,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08M0X888,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098DPPF8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07YFFX8M,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD0999NYF8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD0988MMZQ,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD08V8LRPN,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD088M878N,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07RZ8J7X,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD000KU988,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD098MPK8Q,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD0086JIO0,RelayFoods,GB,Qality,XGBQ
+2021-week_48,AD0080O7G8,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD007JPOX8,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD088L8Y8G,Fry Multimedia,GB,Qality,RNNQ
+2021-week_48,AD07V8N8SJ,Fancy,GB,Qality,RNNQ
+2021-week_48,AD098D8W78,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD080G6978,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD078Z6RY8,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07988JL8,LocalVox Media,GB,Yield,UserPopY
+2021-week_48,AD0798G8Y8,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08Q8CYLT,Crescendo Networks,GB,Qality,DNNQ
+2021-week_48,AD09D8WHTT,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD08G8T8DX,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD00898DT8,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD0009K8I9,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD08LXLFF6,Search Million Culture,GB,Qality,ManualQ
+2021-week_48,AD07Y6CH68,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD00LC6PA8,Fancy,GB,Qality,DNNQ
+2021-week_48,AD07HJDJ8X,Fancy,GB,Qality,XGBQ
+2021-week_48,AD07GPHSWN,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD09GV8P88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00VX7VPS,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD088IY8FJ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD08KM8S8W,MoJoe Brewing Company,GB,Yield,ManualQ
+2021-week_48,AD07S8CVCM,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD098DJ8QM,Fancy,GB,Qality,DNNQ
+2021-week_48,AD09JP8D9V,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098WGWN6,iDreamsky Technology,GB,Qality,DNNQ
+2021-week_48,AD088DT8WN,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008QMU9X,Fancy,GB,Qality,DNNQ
+2021-week_48,AD00N80EUE,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07KWCGV8,iDreamsky Technology,GB,Yield,DNNY
+2021-week_48,AD088F88RM,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD098X6KW6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD088QWVD8,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD088GANOO,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07YZ8W78,MoJoe Brewing Company,GB,Yield,RNNY
+2021-week_48,AD088Q9LZZ,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD09CKGV88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07WT8P88,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00F0SO88,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07TPM9G8,Fancy,GB,Qality,RNNQ
+2021-week_48,AD07YYNDLH,Fry Multimedia,GB,Qality,DNNQ
+2021-week_48,AD077JLGDT,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD008E806M,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0888X8CJ,Search Million Culture,GB,Qality,XGBQ
+2021-week_48,AD078MZHX7,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD07PVMNZ6,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD08HR7ZW9,LocalVox Media,GB,Yield,DNNY
+2021-week_48,AD07J8CWSJ,Search Million Culture,GB,Qality,RNNQ
+2021-week_48,AD088F8CMQ,iDreamsky Technology,GB,Qality,RNNQ
+2021-week_48,AD07JYFG88,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07HFT8PZ,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD098FGMKL,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD0869ZXR7,RelayFoods,GB,Qality,RNNQ
+2021-week_48,AD07X8L8KL,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00Z6SK8Q,RelayFoods,GB,Qality,DNNQ
+2021-week_48,AD07V86VLQ,MoJoe Brewing Company,GB,Yield,DNNY
+2021-week_48,AD076P8V98,Search Million Culture,GB,Qality,DNNQ
+2021-week_48,AD00P8V6IU,Fancy,GB,Qality,DNNQ
+2021-week_48,AD06Y8878G,MoJoe Brewing Company,GB,Yield,UserPopY
+2021-week_48,AD008J8OAT,Fancy,GB,Qality,DNNQ
+2021-week_48,AD080878WU,RelayFoods,GB,Qality,UserPopQ
